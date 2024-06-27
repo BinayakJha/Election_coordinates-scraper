@@ -1,0 +1,729 @@
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 1 (1), Reg Centre: 1492 (जनता आ.वि. विद्यालय, साखेजुङ्ग), Link: https://www.google.com/maps/search/?api=1&query=26.961,87.89383
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 1 (1), Reg Centre: 1494 (नेपालटार मा.वि., नेपालटार), Link: https://www.google.com/maps/search/?api=1&query=26.98741,87.88408
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 2 (2), Reg Centre: 1372 (सुम्वेक मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=26.9812,87.94057
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 3 (3), Reg Centre: 9902 (बिणापाणी मा.बि. स्कूलडाँडा), Link: https://www.google.com/maps/search/?api=1&query=27.00852,87.88931
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 3 (3), Reg Centre: 1497 (शारदा मा.वि., वेतनी), Link: https://www.google.com/maps/search/?api=1&query=27.01055833,87.86941625
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 4 (4), Reg Centre: 1352 (देवकोटा आधारभूत विद्यालय, भित्ते), Link: https://www.google.com/maps/search/?api=1&query=26.9962,87.90696
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 4 (4), Reg Centre: 1348 (रुक्मिणी आधारभूत विद्यालय, मलाते), Link: https://www.google.com/maps/search/?api=1&query=26.98312,87.91091
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 4 (4), Reg Centre: 10860 (सिद्धेश्वरी आधारभुत विद्यालय सिद्धेश्वरी चोक), Link: https://www.google.com/maps/search/?api=1&query=26.96313,87.9134
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 5 (5), Reg Centre: 11921 (5 नं. वडा कार्यालय भवन), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 5 (5), Reg Centre: 11898 (सप्‍तमाई वाङ्‍मय अध्ययन अनुसन्धान केन्द्र तोरीवारी), Link: https://www.google.com/maps/search/?api=1&query=26.930653,87.920239
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 6 (6), Reg Centre: 10862 (इलाम विद्या मन्दिर पिपलबोटे), Link: https://www.google.com/maps/search/?api=1&query=26.92321,87.92797
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 6 (6), Reg Centre: 9945 (दृपादेवी आ.वि.), Link: https://www.google.com/maps/search/?api=1&query=26.91952,87.92057
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 7 (7), Reg Centre: 11801 (महेन्द्र रत्‍न बहुमुखी क्याम्पस, इलाम), Link: https://www.google.com/maps/search/?api=1&query=26.90891,87.92146
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 8 (8), Reg Centre: 10863 (जनकल्याण आधारभुत विद्यालय सिङफ्रिङ), Link: https://www.google.com/maps/search/?api=1&query=26.9267,87.9332
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 8 (8), Reg Centre: 1404 (विद्या आधारभूत विद्यालय, तिल्केनी), Link: https://www.google.com/maps/search/?api=1&query=26.90288,87.93694
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 9 (9), Reg Centre: 1392 (भगवती मा.वि., गोलाखर्क), Link: https://www.google.com/maps/search/?api=1&query=26.89582,87.91794
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 9 (9), Reg Centre: 1395 (महमाई आ.वि., गोलाखर्क), Link: https://www.google.com/maps/search/?api=1&query=26.8802,87.9102
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 10 (10), Reg Centre: 980 (जलकन्या आधारभूत विद्यालय, गोदक शिलपुर), Link: https://www.google.com/maps/search/?api=1&query=26.88162,87.93907
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 10 (10), Reg Centre: 982 (पुर्ण स्मारक मा.वि., गोदक), Link: https://www.google.com/maps/search/?api=1&query=26.87907,87.97478
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 11 (11), Reg Centre: 1121 (महेश्वरा आ.वि., निन्दाखु), Link: https://www.google.com/maps/search/?api=1&query=26.86547,87.88201
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 11 (11), Reg Centre: 1123 (वालकन्या मा.वि., सोयाक), Link: https://www.google.com/maps/search/?api=1&query=26.8468,87.87692
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 12 (12), Reg Centre: 10864 (अमरज्योति आधारभुत विद्यालय पिपलबोटे), Link: https://www.google.com/maps/search/?api=1&query=26.90173,87.89326
+State: 1 District: 3 (इलाम), VDC: 5018 (इलाम नगरपालिका), Ward: 12 (12), Reg Centre: 1116 (रत्‍नलक्ष्मी आ.वि., सानो साङरुम्बा), Link: https://www.google.com/maps/search/?api=1&query=26.889663,87.878651
+State: 1 District: 3 (इलाम), VDC: 5019 (चुलाचुली गाउँपालिका), Ward: 1 (1), Reg Centre: 1296 (जनता मा.वि., कमल), Link: https://www.google.com/maps/search/?api=1&query=26.67375,87.78338
+State: 1 District: 3 (इलाम), VDC: 5019 (चुलाचुली गाउँपालिका), Ward: 2 (2), Reg Centre: 1327 (जनता मा.वि., चुलीकञ्चनपुर), Link: https://www.google.com/maps/search/?api=1&query=26.68062,87.74926
+State: 1 District: 3 (इलाम), VDC: 5019 (चुलाचुली गाउँपालिका), Ward: 3 (3), Reg Centre: 1333 (किरातेश्वर मा.वि., पेल्टीमारी), Link: https://www.google.com/maps/search/?api=1&query=26.70217,87.74065
+State: 1 District: 3 (इलाम), VDC: 5019 (चुलाचुली गाउँपालिका), Ward: 4 (4), Reg Centre: 1336 (वालज्योती मा.वि. आइतबारे), Link: https://www.google.com/maps/search/?api=1&query=26.70439,87.72337
+State: 1 District: 3 (इलाम), VDC: 5019 (चुलाचुली गाउँपालिका), Ward: 5 (5), Reg Centre: 1343 (बाँझोगाउँ मा.वि., शिखरकटेरी), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5019 (चुलाचुली गाउँपालिका), Ward: 5 (5), Reg Centre: 1341 (भानु मा.वि., बुकुवा), Link: https://www.google.com/maps/search/?api=1&query=26.71313,87.71
+State: 1 District: 3 (इलाम), VDC: 5019 (चुलाचुली गाउँपालिका), Ward: 6 (6), Reg Centre: 1158 (गिताञ्जली आधारभूत विद्यालय, तोरीवारी), Link: https://www.google.com/maps/search/?api=1&query=26.76321,87.67892
+State: 1 District: 3 (इलाम), VDC: 5019 (चुलाचुली गाउँपालिका), Ward: 6 (6), Reg Centre: 1147 (मिक्लाचोङ मा.वि., दशमीबजार), Link: https://www.google.com/maps/search/?api=1&query=26.85532,87.644
+State: 1 District: 3 (इलाम), VDC: 5019 (चुलाचुली गाउँपालिका), Ward: 6 (6), Reg Centre: 1153 (राष्‍ट्रप्रेमी मा.वि. फुङनाम), Link: https://www.google.com/maps/search/?api=1&query=26.82826,87.65674
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 1 (1), Reg Centre: 1488 (डम्वरदेवी मा.वि., चौरी), Link: https://www.google.com/maps/search/?api=1&query=27.00808,87.82468
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 1 (1), Reg Centre: 10871 (सिंह बसन्त आधारभुत विद्यालय मैदाने), Link: https://www.google.com/maps/search/?api=1&query=27.028002,87.804403
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 2 (2), Reg Centre: 10873 (देवीस्थान आधारभुत विद्यालय साब्जुङ), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 2 (2), Reg Centre: 10874 (भानुदय आधारभुत विद्यालय पुङफुङ), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 2 (2), Reg Centre: 11617 (रत्‍न बम प्रतिष्‍ठानको भवन), Link: https://www.google.com/maps/search/?api=1&query=27.00416,87.84878
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 3 (3), Reg Centre: 1383 (पञ्च मा.वि., शान्तिडांडा), Link: https://www.google.com/maps/search/?api=1&query=26.94412,87.87088
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 3 (3), Reg Centre: 10875 (महेन्द्रोदय आधारभुत विद्यालय गाग्रेभञ्ज्याङ), Link: https://www.google.com/maps/search/?api=1&query=26.93409,87.853701
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 4 (4), Reg Centre: 10876 (नेत्रज्योती आधारभुत विद्यालय देउमाई), Link: https://www.google.com/maps/search/?api=1&query=26.941333,87.832746
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 4 (4), Reg Centre: 1272 (भानुभक्त मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=26.94058,87.83653
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 5 (5), Reg Centre: 1225 (जनकल्याण आ.वि., आङदाङ), Link: https://www.google.com/maps/search/?api=1&query=26.91746,87.78423
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 5 (5), Reg Centre: 1221 (भगवती मा.वि., बरभञ्ज्याङ), Link: https://www.google.com/maps/search/?api=1&query=26.92685,87.80398
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 6 (6), Reg Centre: 1379 (पञ्चकन्या मा.वि., फुटुक), Link: https://www.google.com/maps/search/?api=1&query=26.92919,87.89058
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 7 (7), Reg Centre: 1129 (आदर्श सिद्ध आ.वि.), Link: https://www.google.com/maps/search/?api=1&query=26.85443,87.84698
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 7 (7), Reg Centre: 1128 (खादुङ मा.वि., पञ्चमी), Link: https://www.google.com/maps/search/?api=1&query=26.87544,87.85143
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 8 (8), Reg Centre: 9939 (जनता आ.वि. विद्यालय, तालखर्क), Link: https://www.google.com/maps/search/?api=1&query=26.907118,87.849243
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 8 (8), Reg Centre: 1135 (भगवती आ.वि. आमबोटे), Link: https://www.google.com/maps/search/?api=1&query=26.90431,87.83613
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 9 (9), Reg Centre: 1139 (जीतपुर मा.वि., जीतपुर नवमी), Link: https://www.google.com/maps/search/?api=1&query=26.87905,87.81817
+State: 1 District: 3 (इलाम), VDC: 5020 (देउमाई नगरपालिका), Ward: 9 (9), Reg Centre: 1142 (त्रिभुवन आ.वि., लिङदिङ), Link: https://www.google.com/maps/search/?api=1&query=26.85174,87.80013
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 1 (1), Reg Centre: 10881 (खाम्वाङ सामुदायीक भवन खाम्वाङ), Link: https://www.google.com/maps/search/?api=1&query=26.99824,87.759917
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 1 (1), Reg Centre: 9942 (छाँयादेवी मा.वि., आमचोक), Link: https://www.google.com/maps/search/?api=1&query=26.98937,87.746922
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 1 (1), Reg Centre: 1484 (जनज्योति आधारभूत विद्यालय, पछेवा), Link: https://www.google.com/maps/search/?api=1&query=27.00377,87.73811
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 2 (2), Reg Centre: 10882 (धार्नेखोप आधारभुत विद्यालय धार्नेखोप), Link: https://www.google.com/maps/search/?api=1&query=26.99918,87.789728
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 2 (2), Reg Centre: 1480 (राष्ट्रिय मा.वि., कोल्बोटे), Link: https://www.google.com/maps/search/?api=1&query=26.97397,87.76594
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 3 (3), Reg Centre: 1253 (लक्ष्मीदेवी आधारभूत विद्यालय, सुर्के), Link: https://www.google.com/maps/search/?api=1&query=26.96443,87.72175
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 3 (3), Reg Centre: 1249 (सिंहदेवी मा.वि., शुक्रबारे), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 4 (4), Reg Centre: 1232 (विष्णु माध्यामिक विद्यालय फुएतप्पा), Link: https://www.google.com/maps/search/?api=1&query=26.94698,87.70676
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 4 (4), Reg Centre: 11809 (सरस्वती आ.वि. तालखर्क), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 4 (4), Reg Centre: 1229 (सिंहदेवी मा वि., नेवारगाउँ), Link: https://www.google.com/maps/search/?api=1&query=26.94399,87.73853
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 5 (5), Reg Centre: 9941 (जलकन्या आधारभूत विद्यालय, लुम्दे), Link: https://www.google.com/maps/search/?api=1&query=26.913755,87.717626
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 5 (5), Reg Centre: 1213 (जालपा मा.वि. लुम्दे), Link: https://www.google.com/maps/search/?api=1&query=26.92033,87.73191
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 6 (6), Reg Centre: 10883 (जानकी माध्यामिक विद्यालय हाङ्गमासुली), Link: https://www.google.com/maps/search/?api=1&query=26.975679,87.795315
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 6 (6), Reg Centre: 11810 (फलाटे मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.00857,87.7893
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 7 (7), Reg Centre: 11811 (जन प्रा.वि. रुपाटार), Link: https://www.google.com/maps/search/?api=1&query=26.924699,87.770138
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 7 (7), Reg Centre: 1244 (जनकल्याण मा.वि., दोकानडाँडा), Link: https://www.google.com/maps/search/?api=1&query=26.9449,87.7782
+State: 1 District: 3 (इलाम), VDC: 5021 (फाकफोकथुम गाउँपालिका), Ward: 7 (7), Reg Centre: 1237 (सिंहदेवी मा.वि., शिकारीभञ्ज्याङ), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5022 (माई नगरपालिका), Ward: 1 (1), Reg Centre: 1090 (युवावर्ष मा.वि. दानाबारी, सदुवा), Link: https://www.google.com/maps/search/?api=1&query=26.78041,87.85063
+State: 1 District: 3 (इलाम), VDC: 5022 (माई नगरपालिका), Ward: 2 (2), Reg Centre: 1091 (कन्काई मा.वि. दानाबारी, शितली), Link: https://www.google.com/maps/search/?api=1&query=26.76278,87.88594
+State: 1 District: 3 (इलाम), VDC: 5022 (माई नगरपालिका), Ward: 3 (3), Reg Centre: 10877 (सरस्वती माध्यमिक विद्यालय मुसेखोला), Link: https://www.google.com/maps/search/?api=1&query=26.782266,87.881972
+State: 1 District: 3 (इलाम), VDC: 5022 (माई नगरपालिका), Ward: 4 (4), Reg Centre: 10878 (गरुवा आधारभुत विद्यालय शुक्रबारे), Link: https://www.google.com/maps/search/?api=1&query=26.75995,87.895896
+State: 1 District: 3 (इलाम), VDC: 5022 (माई नगरपालिका), Ward: 5 (5), Reg Centre: 10879 (लक्ष्मी आधारभुत विद्यालय कालीखोला), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5022 (माई नगरपालिका), Ward: 5 (5), Reg Centre: 1083 (सूर्योदय आधारभूत विद्यालय लक्ष्मीपुर, खर्वने), Link: https://www.google.com/maps/search/?api=1&query=26.79563,87.95124
+State: 1 District: 3 (इलाम), VDC: 5022 (माई नगरपालिका), Ward: 6 (6), Reg Centre: 1257 (भगवती मा.वि., गोतामेटार), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5022 (माई नगरपालिका), Ward: 7 (7), Reg Centre: 1261 (विरेन्द्र मा.वि., कपरसुक्का), Link: https://www.google.com/maps/search/?api=1&query=26.76958,87.83836
+State: 1 District: 3 (इलाम), VDC: 5022 (माई नगरपालिका), Ward: 8 (8), Reg Centre: 1265 (लक्ष्मी आदर्श माध्यामिक विद्यालय, विष्णेटार), Link: https://www.google.com/maps/search/?api=1&query=26.75174,87.86151
+State: 1 District: 3 (इलाम), VDC: 5022 (माई नगरपालिका), Ward: 9 (9), Reg Centre: 1086 (जनता मा.वि., चिसापानी), Link: https://www.google.com/maps/search/?api=1&query=26.82396,87.90838
+State: 1 District: 3 (इलाम), VDC: 5022 (माई नगरपालिका), Ward: 10 (10), Reg Centre: 10880 (कैलाश आधारभुत विद्यालय सालबोटे), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5023 (माईजोगमाई गाउँपालिका), Ward: 1 (1), Reg Centre: 1453 (अमर कल्याण मा.वि., नयाँबजार), Link: https://www.google.com/maps/search/?api=1&query=26.95696,88.02227
+State: 1 District: 3 (इलाम), VDC: 5023 (माईजोगमाई गाउँपालिका), Ward: 1 (1), Reg Centre: 1449 (शिवमाई मा.वि., प्रेमजुङ), Link: https://www.google.com/maps/search/?api=1&query=26.92789,88.04524
+State: 1 District: 3 (इलाम), VDC: 5023 (माईजोगमाई गाउँपालिका), Ward: 2 (2), Reg Centre: 1414 (ज्ञानोदय मा.वि., खोलागाउँ), Link: https://www.google.com/maps/search/?api=1&query=26.98002,88.05199
+State: 1 District: 3 (इलाम), VDC: 5023 (माईजोगमाई गाउँपालिका), Ward: 2 (2), Reg Centre: 1410 (ज्योति आधारभूत विद्यालय, भित्ते), Link: https://www.google.com/maps/search/?api=1&query=26.99521,88.05356
+State: 1 District: 3 (इलाम), VDC: 5023 (माईजोगमाई गाउँपालिका), Ward: 3 (3), Reg Centre: 1474 (नाम्सालीङ मा.वि., शुक्रबारे), Link: https://www.google.com/maps/search/?api=1&query=26.92448,87.99662
+State: 1 District: 3 (इलाम), VDC: 5023 (माईजोगमाई गाउँपालिका), Ward: 4 (4), Reg Centre: 1477 (नेपाल ज्योति आधारभूत विद्यालय, डांडागाउँ), Link: https://www.google.com/maps/search/?api=1&query=26.91474,87.96967
+State: 1 District: 3 (इलाम), VDC: 5023 (माईजोगमाई गाउँपालिका), Ward: 4 (4), Reg Centre: 10884 (शारदा आधारभुत विद्यालय घुमाउने), Link: https://www.google.com/maps/search/?api=1&query=26.909988,87.977889
+State: 1 District: 3 (इलाम), VDC: 5023 (माईजोगमाई गाउँपालिका), Ward: 5 (5), Reg Centre: 1470 (सरस्वती मा.वि., खरीडांडा), Link: https://www.google.com/maps/search/?api=1&query=26.9353,87.96651
+State: 1 District: 3 (इलाम), VDC: 5023 (माईजोगमाई गाउँपालिका), Ward: 5 (5), Reg Centre: 1467 (सिरिसे मा.वि., सोयाङ्ग), Link: https://www.google.com/maps/search/?api=1&query=26.95114,87.97853
+State: 1 District: 3 (इलाम), VDC: 5023 (माईजोगमाई गाउँपालिका), Ward: 6 (6), Reg Centre: 1441 (गा.वि.स. भवन, प्याङ), Link: https://www.google.com/maps/search/?api=1&query=26.98918,87.98933
+State: 1 District: 3 (इलाम), VDC: 5023 (माईजोगमाई गाउँपालिका), Ward: 6 (6), Reg Centre: 1445 (जनता आधारभूत विद्यालय, प्याङ), Link: https://www.google.com/maps/search/?api=1&query=26.97878,87.97974
+State: 1 District: 3 (इलाम), VDC: 5024 (माङसेबुङ गाउँपालिका), Ward: 1 (1), Reg Centre: 1209 (वरभञ्ज्याङ आ.वि, तोभाङ), Link: https://www.google.com/maps/search/?api=1&query=26.89868,87.74939
+State: 1 District: 3 (इलाम), VDC: 5024 (माङसेबुङ गाउँपालिका), Ward: 1 (1), Reg Centre: 11618 (१ नम्बर वडा कार्यालयको भवन), Link: https://www.google.com/maps/search/?api=1&query=26.908403,87.733577
+State: 1 District: 3 (इलाम), VDC: 5024 (माङसेबुङ गाउँपालिका), Ward: 2 (2), Reg Centre: 1196 (इभाङ मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=26.87625,87.74905
+State: 1 District: 3 (इलाम), VDC: 5024 (माङसेबुङ गाउँपालिका), Ward: 2 (2), Reg Centre: 1199 (जनता कल्याण आ.वि., दहगाउँ), Link: https://www.google.com/maps/search/?api=1&query=26.88017,87.69402
+State: 1 District: 3 (इलाम), VDC: 5024 (माङसेबुङ गाउँपालिका), Ward: 3 (3), Reg Centre: 1190 (जनकल्याण आ.वि., चिवुवा), Link: https://www.google.com/maps/search/?api=1&query=26.84668,87.74837
+State: 1 District: 3 (इलाम), VDC: 5024 (माङसेबुङ गाउँपालिका), Ward: 3 (3), Reg Centre: 1181 (दुर्गा मा.वि., बाँझो), Link: https://www.google.com/maps/search/?api=1&query=26.83167,87.7171
+State: 1 District: 3 (इलाम), VDC: 5024 (माङसेबुङ गाउँपालिका), Ward: 4 (4), Reg Centre: 11812 (विद्या सिर्जनात्मक मा.वि., मार्चेबुङ), Link: https://www.google.com/maps/search/?api=1&query=26.762653,87.723285
+State: 1 District: 3 (इलाम), VDC: 5024 (माङसेबुङ गाउँपालिका), Ward: 4 (4), Reg Centre: 1174 (सरस्वती आ.वि., सिमलटार), Link: https://www.google.com/maps/search/?api=1&query=26.75033,87.73985
+State: 1 District: 3 (इलाम), VDC: 5024 (माङसेबुङ गाउँपालिका), Ward: 5 (5), Reg Centre: 9940 (सरस्वती मा.वि., भालुटार लारुम्बा), Link: https://www.google.com/maps/search/?api=1&query=26.814075,87.73756
+State: 1 District: 3 (इलाम), VDC: 5024 (माङसेबुङ गाउँपालिका), Ward: 6 (6), Reg Centre: 1178 (चिसोपानी मा.वि., मिक्लुङ), Link: https://www.google.com/maps/search/?api=1&query=26.87653,87.67806
+State: 1 District: 3 (इलाम), VDC: 5024 (माङसेबुङ गाउँपालिका), Ward: 6 (6), Reg Centre: 1163 (सिंगेश्वरी आधारभूत विद्यालय, बाँझोगाउँ), Link: https://www.google.com/maps/search/?api=1&query=26.84348,87.68725
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 1 (1), Reg Centre: 10888 (देवीगञ्ज आधारभुत विद्यालय शान्तिपुर), Link: https://www.google.com/maps/search/?api=1&query=26.850635,88.020695
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 1 (1), Reg Centre: 10887 (साविक वडा कार्यालय भवन शान्तिपुर), Link: https://www.google.com/maps/search/?api=1&query=26.825623,88.015043
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 2 (2), Reg Centre: 1061 (विष्णु अमर आ.वि., बरफल्याङ), Link: https://www.google.com/maps/search/?api=1&query=26.76756,87.98504
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 2 (2), Reg Centre: 1058 (शशि मा.वि. शान्तिपुर, बदामटार), Link: https://www.google.com/maps/search/?api=1&query=26.79838,87.98456
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 2 (2), Reg Centre: 11813 (शान्तिपुर मा.वि. शान्तिपुर), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 3 (3), Reg Centre: 1052 (गा.वि.स. भवन, दोकानडांडा), Link: https://www.google.com/maps/search/?api=1&query=26.82063,88.06313
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 3 (3), Reg Centre: 1044 (चन्द्रकला आधारभूत विद्यालय इरौटार. प्युरे), Link: https://www.google.com/maps/search/?api=1&query=26.80501,88.082
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 4 (4), Reg Centre: 1055 (सरस्वती मा.वि. कोलबुङ, भालुझोडा), Link: https://www.google.com/maps/search/?api=1&query=26.80381,88.05811
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 5 (5), Reg Centre: 10889 (उमा महेश्वर माध्यामिक विद्यालय, इरौटार), Link: https://www.google.com/maps/search/?api=1&query=26.794993,88.113266
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 5 (5), Reg Centre: 1049 (गा.वि.स. भवन, इरौटार), Link: https://www.google.com/maps/search/?api=1&query=26.79148,88.09671
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 5 (5), Reg Centre: 9938 (नारायण आधारभूत विद्यालय, इरौटार), Link: https://www.google.com/maps/search/?api=1&query=26.768321,88.097732
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 6 (6), Reg Centre: 1036 (कुवापानी माध्यामिक विद्यालय, जिर्मले), Link: https://www.google.com/maps/search/?api=1&query=26.79671,88.1291
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 6 (6), Reg Centre: 11814 (पाटापुर आ.वि. पाटापुर), Link: https://www.google.com/maps/search/?api=1&query=26.785921,88.170938
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 6 (6), Reg Centre: 1028 (मोतिराम मा.वि. जिर्मले), Link: https://www.google.com/maps/search/?api=1&query=26.81204,88.15684
+State: 1 District: 3 (इलाम), VDC: 5025 (रोङ गाउँपालिका), Ward: 6 (6), Reg Centre: 1033 (सरस्वती मा.वि. जिर्मले, रम्भ्याङ), Link: https://www.google.com/maps/search/?api=1&query=26.82911,88.13447
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 1 (1), Reg Centre: 1355 (अरुणोदय आधारभूत विद्यालय, आले), Link: https://www.google.com/maps/search/?api=1&query=27.02511,87.89862
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 1 (1), Reg Centre: 11815 (चन्द्रोदय आ.वि., आलुबारी), Link: https://www.google.com/maps/search/?api=1&query=27.042824,87.895909
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 1 (1), Reg Centre: 10885 (बालज्योती आधारभुत विद्यालय काँक्रे), Link: https://www.google.com/maps/search/?api=1&query=27.000075,87.920851
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 2 (2), Reg Centre: 9947 (भगवती आधारभूत विद्यालय फेमेगुरु), Link: https://www.google.com/maps/search/?api=1&query=27.038046,87.936845
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 2 (2), Reg Centre: 1421 (भानु आधारभूत विद्यालय, लुङचोक), Link: https://www.google.com/maps/search/?api=1&query=27.07149,87.97258
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 2 (2), Reg Centre: 10886 (श्याम्बल माध्यामिक विद्यालय माइमझुवा), Link: https://www.google.com/maps/search/?api=1&query=27.060485,87.944579
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 3 (3), Reg Centre: 1366 (जनकल्याण आधारभूत विद्यालय, माइपाताल), Link: https://www.google.com/maps/search/?api=1&query=27.02694,87.92237
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 3 (3), Reg Centre: 9946 (युवा आधारभूत विद्यालय टारी सुलुबुङ्ग), Link: https://www.google.com/maps/search/?api=1&query=27.004194,87.948239
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 3 (3), Reg Centre: 1370 (सरस्वती मा.वि., याक्पी), Link: https://www.google.com/maps/search/?api=1&query=27.01451,87.94629
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 4 (4), Reg Centre: 1427 (प्रबोध मा.बि. मावु), Link: https://www.google.com/maps/search/?api=1&query=27.03484,87.9567
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 4 (4), Reg Centre: 1425 (राष्ट्रिय आधारभूत विद्यालय, कालपोखरी/हिले), Link: https://www.google.com/maps/search/?api=1&query=27.05927,87.9781
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 5 (5), Reg Centre: 11923 (भगवती मा.वि.जमुना), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 5 (5), Reg Centre: 1430 (भानुदय आ.वि., घुम्तीडांडा), Link: https://www.google.com/maps/search/?api=1&query=27.02811,87.98841
+State: 1 District: 3 (इलाम), VDC: 5026 (सन्दकपुर गाउँपालिका), Ward: 5 (5), Reg Centre: 1435 (राष्ट्रिय आ.वि., इङला), Link: https://www.google.com/maps/search/?api=1&query=27.01242,87.99451
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 1 (1), Reg Centre: 10865 (दुर्गा भवानी आधारभुत विद्यालय जोगमाई), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 1 (1), Reg Centre: 956 (सिंहदेवी मा.वि., गोर्खे मंगलबारे), Link: https://www.google.com/maps/search/?api=1&query=26.96597,88.09724
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 1 (1), Reg Centre: 962 (हिमालय मा.वि., गोर्खे मानेडांडा), Link: https://www.google.com/maps/search/?api=1&query=26.95712,88.08018
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 2 (2), Reg Centre: 948 (सार्वजनिक आ.वि., पशुपतिनगर), Link: https://www.google.com/maps/search/?api=1&query=26.94885,88.11399
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 3 (3), Reg Centre: 10866 (साविक वडासमितिको कार्यालय पशुपतिनगर), Link: https://www.google.com/maps/search/?api=1&query=26.937712,88.102422
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 4 (4), Reg Centre: 988 (गा.वि.स. भवन, श्रीअन्तु), Link: https://www.google.com/maps/search/?api=1&query=26.89327,88.1185
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 4 (4), Reg Centre: 10867 (जनक माध्यामिक विद्यालय श्रीअन्तु), Link: https://www.google.com/maps/search/?api=1&query=26.888191,88.126085
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 5 (5), Reg Centre: 1001 (गोरख आ.वि., समालबुङ, गोरख), Link: https://www.google.com/maps/search/?api=1&query=26.85983,88.12836
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 5 (5), Reg Centre: 996 (समालबुङ मा.वि., समालबुङ), Link: https://www.google.com/maps/search/?api=1&query=26.87364,88.15034
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 6 (6), Reg Centre: 11927 (६ नं. वडा कार्यालय भवन), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 7 (7), Reg Centre: 10868 (श्रीकृष्णाश्रम मावि कन्याम), Link: https://www.google.com/maps/search/?api=1&query=26.868458,88.081126
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 8 (8), Reg Centre: 10869 (मालुम आधारभुत विद्यालय मालुम), Link: https://www.google.com/maps/search/?api=1&query=26.892045,88.085273
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 8 (8), Reg Centre: 1014 (सिद्ध आधारभूत विद्यालय कन्याम, सिद्धिगाउँ), Link: https://www.google.com/maps/search/?api=1&query=26.87889,88.09093
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 9 (9), Reg Centre: 9916 (राष्ट्रिय आ.वि., फिक्कल, रमफोक), Link: https://www.google.com/maps/search/?api=1&query=26.91233,88.07394
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 10 (10), Reg Centre: 973 (फिक्कल मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=26.89558,88.05984
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 10 (10), Reg Centre: 966 (राष्ट्रिय आधारभूत विद्यालय, फिक्कल आरुबोटे), Link: https://www.google.com/maps/search/?api=1&query=26.90388,88.05497
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 11 (11), Reg Centre: 1010 (भवानी आधारभूत विद्यालय पञ्चकन्या, माघे), Link: https://www.google.com/maps/search/?api=1&query=26.89524,88.02769
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 11 (11), Reg Centre: 1005 (विरेन्द्र मा.वि. पञ्चकन्या, आइतबारे), Link: https://www.google.com/maps/search/?api=1&query=26.88307,88.02937
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 12 (12), Reg Centre: 10870 (करफोक माध्यमिक विद्यालय करफोक), Link: https://www.google.com/maps/search/?api=1&query=26.885826,88.038552
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 13 (13), Reg Centre: 1085 (ज्योति मा.वि., लक्ष्मीपुर), Link: https://www.google.com/maps/search/?api=1&query=26.85613,87.9877
+State: 1 District: 3 (इलाम), VDC: 5027 (सूर्योदय नगरपालिका), Ward: 14 (14), Reg Centre: 1082 (सरस्वती मा.वि. लक्ष्मीपुर, बतासे), Link: https://www.google.com/maps/search/?api=1&query=26.84974,87.96964
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 1 (1), Reg Centre: 7087 (आधारभूत विद्यालय थाक्ले), Link: https://www.google.com/maps/search/?api=1&query=27.00312,86.50332
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 1 (1), Reg Centre: 7089 (धुवाजन मा.वि., वाहुनीटार), Link: https://www.google.com/maps/search/?api=1&query=26.99108,86.46914
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 2 (2), Reg Centre: 12118 (वडा नं २ को वडा कार्यालय भवन), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 3 (3), Reg Centre: 10774 (जनता आ.वि. रैतिमा), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 4 (4), Reg Centre: 7023 (वडा नं. ४ को वडा कार्यालय भवन), Link: https://www.google.com/maps/search/?api=1&query=26.96148,86.55088
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 5 (5), Reg Centre: 7041 (आ.वि. केउरेनी), Link: https://www.google.com/maps/search/?api=1&query=26.96821,86.49825
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 5 (5), Reg Centre: 7038 (पञ्चावती मा.वि., उदयपुरगढी), Link: https://www.google.com/maps/search/?api=1&query=26.93822,86.52196
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 6 (6), Reg Centre: 12270 (आ.वि. कोपिलेश्वर, सोलिढुङ्गा), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 6 (6), Reg Centre: 7035 (मा.वि., जगरेटार नेपालटार), Link: https://www.google.com/maps/search/?api=1&query=26.91062,86.52779
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 7 (7), Reg Centre: 12263 (आ.वि., नाङराङ्गे), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 7 (7), Reg Centre: 6689 (मा.वि. हाडेवास), Link: https://www.google.com/maps/search/?api=1&query=26.8455,86.54951
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 8 (8), Reg Centre: 6691 (आ.वि. नरेटार), Link: https://www.google.com/maps/search/?api=1&query=26.90479,86.56078
+State: 1 District: 14 (उदयपुर), VDC: 5130 (उदयपुरगढी गाउँपालिका), Ward: 8 (8), Reg Centre: 6695 (जनता आधारभूत विद्यालय सितल्ले), Link: https://www.google.com/maps/search/?api=1&query=26.91848,86.58179
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 1 (1), Reg Centre: 10782 (प‌‌न्चावती मा.वी., खसिवास), Link: https://www.google.com/maps/search/?api=1&query=26.90409,86.25733
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 1 (1), Reg Centre: 7049 (मा.वि. कालिखोला), Link: https://www.google.com/maps/search/?api=1&query=26.89937,86.24626
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 2 (2), Reg Centre: 7051 (जनता मा.वि. गुराँसे), Link: https://www.google.com/maps/search/?api=1&query=26.92556,86.27466
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 3 (3), Reg Centre: 10785 (तरकारी तथा फलफुल विक्री केन्द्र, तावाखोला), Link: https://www.google.com/maps/search/?api=1&query=26.96021,86.37008
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 4 (4), Reg Centre: 7025 (त्रिवेणी मा.वि., कटारी), Link: https://www.google.com/maps/search/?api=1&query=26.96325,86.3651
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 5 (5), Reg Centre: 7027 (देवी मा.वि., भुल्के कटारी), Link: https://www.google.com/maps/search/?api=1&query=26.9516,86.38306
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 6 (6), Reg Centre: 10786 (आ.वि. धपर), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 7 (7), Reg Centre: 7045 (जनप्रेमी मा.वि., रिस्कु), Link: https://www.google.com/maps/search/?api=1&query=26.93855,86.43337
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 8 (8), Reg Centre: 7066 (जनप्रिय माध्यामिक विद्यालय कुरीङ्ग, भञ्ज्याङ), Link: https://www.google.com/maps/search/?api=1&query=27.04015,86.41183
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 9 (9), Reg Centre: 7081 (मा.वि., लिम्पाटार), Link: https://www.google.com/maps/search/?api=1&query=27.07108,86.45911
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 10 (10), Reg Centre: 7067 (जनता कालिका मा.वि., सोरूङ्ग), Link: https://www.google.com/maps/search/?api=1&query=27.09132,86.43231
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 11 (11), Reg Centre: 7056 (सरस्वती माध्यामिक विद्यालय हर्देनी), Link: https://www.google.com/maps/search/?api=1&query=27.08218,86.39045
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 12 (12), Reg Centre: 7055 (जनमुखी मा.वि., वसेरी), Link: https://www.google.com/maps/search/?api=1&query=27.04252,86.36649
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 13 (13), Reg Centre: 7061 (मा.वि. मयाँखु), Link: https://www.google.com/maps/search/?api=1&query=27.10997,86.37038
+State: 1 District: 14 (उदयपुर), VDC: 5131 (कटारी नगरपालिका), Ward: 14 (14), Reg Centre: 7058 (चन्द्रावती मा.वि.लेखानी, पोखरी), Link: https://www.google.com/maps/search/?api=1&query=27.13399,86.38565
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 1 (1), Reg Centre: 6500 (शारदा मा.वि. कटहरे), Link: https://www.google.com/maps/search/?api=1&query=26.88461,86.9588
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 1 (1), Reg Centre: 6497 (श्री आ.वि., गढन्ता, चौदण्डी), Link: https://www.google.com/maps/search/?api=1&query=26.87832,86.90825
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 2 (2), Reg Centre: 10752 (कौवाइदेवी आ.वि., झोरापाटा), Link: https://www.google.com/maps/search/?api=1&query=26.79359,86.90967
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 2 (2), Reg Centre: 10753 (सिहँदेवी मा.वि., माडिवास), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 3 (3), Reg Centre: 10756 (मा.वि. आम्साल), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 4 (4), Reg Centre: 6520 (नारद आदर्श मा.वि. वर्षेडांडा, बसाहा), Link: https://www.google.com/maps/search/?api=1&query=26.79724,86.92339
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 5 (5), Reg Centre: 6516 (मा.वि.,सिवाई, सुन्दरपुर), Link: https://www.google.com/maps/search/?api=1&query=26.76321,86.87796
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 5 (5), Reg Centre: 6518 (शिव मा.वि. सुन्दरपुर), Link: https://www.google.com/maps/search/?api=1&query=26.75501,86.9049
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 6 (6), Reg Centre: 10757 (कालिका मा.वी., सिर्वानी), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 6 (6), Reg Centre: 6494 (ज्योति नमुना मा.वि., बेल्टार), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 7 (7), Reg Centre: 10760 (पँचमी आ.वि., बेल्टार), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 8 (8), Reg Centre: 6514 (जनता मा.वि. लुङ्गीटार), Link: https://www.google.com/maps/search/?api=1&query=26.85904,86.88124
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 8 (8), Reg Centre: 6511 (सरस्वती मा.वि. सावा, सिद्धिपुर), Link: https://www.google.com/maps/search/?api=1&query=26.86734,86.8501
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 9 (9), Reg Centre: 10763 (जनज्योती प्रा.वी., हँडिया पछवारी), Link: https://www.google.com/maps/search/?api=1&query=26.79096,86.85544
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 9 (9), Reg Centre: 12110 (नमूना जनता मा.वि., हँडिया), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 10 (10), Reg Centre: 12278 (लौवागढी मा.वि., खैराहाझोडा), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5132 (चौदण्डीगढी नगरपालिका), Ward: 10 (10), Reg Centre: 10766 (वडा समितिको कार्यालय वडा नं. १० हडिया), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5133 (ताप्ली गाउँपालिका), Ward: 1 (1), Reg Centre: 7085 (मा.वि., फुस्रे, पिपलभञ्ज्याङ), Link: https://www.google.com/maps/search/?api=1&query=27.07953,86.49373
+State: 1 District: 14 (उदयपुर), VDC: 5133 (ताप्ली गाउँपालिका), Ward: 2 (2), Reg Centre: 7078 (आधारभूत विद्यालय, लेखगाउँ), Link: https://www.google.com/maps/search/?api=1&query=27.05588,86.53801
+State: 1 District: 14 (उदयपुर), VDC: 5133 (ताप्ली गाउँपालिका), Ward: 3 (3), Reg Centre: 7072 (आधारभूत विद्यालयपिपलडाँडा दगले), Link: https://www.google.com/maps/search/?api=1&query=27.05838,86.55864
+State: 1 District: 14 (उदयपुर), VDC: 5133 (ताप्ली गाउँपालिका), Ward: 3 (3), Reg Centre: 7070 (मा.वि. झिल्केपोखरी, इनामे), Link: https://www.google.com/maps/search/?api=1&query=27.04889,86.56727
+State: 1 District: 14 (उदयपुर), VDC: 5133 (ताप्ली गाउँपालिका), Ward: 4 (4), Reg Centre: 7112 (ककनीश्वर मा.वि., ठानागाउँ), Link: https://www.google.com/maps/search/?api=1&query=27.11165,86.56378
+State: 1 District: 14 (उदयपुर), VDC: 5133 (ताप्ली गाउँपालिका), Ward: 5 (5), Reg Centre: 7108 (पन्चावती आ. वि., रामपुर,रुपाटार), Link: https://www.google.com/maps/search/?api=1&query=27.0916,86.55074
+State: 1 District: 14 (उदयपुर), VDC: 5133 (ताप्ली गाउँपालिका), Ward: 5 (5), Reg Centre: 7107 (महेन्द्ररत्न मा.वि., रूपाटार), Link: https://www.google.com/maps/search/?api=1&query=27.09344,86.53038
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 1 (1), Reg Centre: 10768 (जनप्रेमी माध्यामिक विद्यालय, पुर्वटोल), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 2 (2), Reg Centre: 6968 (जनक मा.वि., खैजनपुर), Link: https://www.google.com/maps/search/?api=1&query=26.75337,86.71826
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 2 (2), Reg Centre: 6483 (जनता मा.वि., जोगीदह), Link: https://www.google.com/maps/search/?api=1&query=26.76348,86.76971
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 3 (3), Reg Centre: 12138 (जनता बहुमुखी क्याम्पस, मोतिगडा), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 4 (4), Reg Centre: 6994 (राष्ट्रिय मा.वि., वगाहा), Link: https://www.google.com/maps/search/?api=1&query=26.78674,86.65968
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 5 (5), Reg Centre: 7000 (जनज्योति आधारभूत विद्यालय, देउरी), Link: https://www.google.com/maps/search/?api=1&query=26.7957,86.6478
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 5 (5), Reg Centre: 6998 (जनता मा.वि., दमौती), Link: https://www.google.com/maps/search/?api=1&query=26.74222,86.61551
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 5 (5), Reg Centre: 6996 (जनता मा.वि., श्रीपुर), Link: https://www.google.com/maps/search/?api=1&query=26.78318,86.64279
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 6 (6), Reg Centre: 7003 (जनता मा.वि., देउरी), Link: https://www.google.com/maps/search/?api=1&query=26.79906,86.64011
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 6 (6), Reg Centre: 7004 (पञ्चकन्या मा.वि., पात्लेवास), Link: https://www.google.com/maps/search/?api=1&query=26.79444,86.58148
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 7 (7), Reg Centre: 7008 (बाल हित आधारभूत विद्यालय भन्टावारी), Link: https://www.google.com/maps/search/?api=1&query=26.82598,86.62469
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 7 (7), Reg Centre: 7006 (मा.वि., कालीखोला), Link: https://www.google.com/maps/search/?api=1&query=26.83944,86.60634
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 8 (8), Reg Centre: 7013 (खाट मन्दिर आधारभूत विद्यालय, शाहीखोला), Link: https://www.google.com/maps/search/?api=1&query=26.83305,86.65263
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 8 (8), Reg Centre: 7011 (जनता आधारभूत विद्यालय, झोरा), Link: https://www.google.com/maps/search/?api=1&query=26.82338,86.63983
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 9 (9), Reg Centre: 7014 (अम्वेवर मा.वि., राजावास), Link: https://www.google.com/maps/search/?api=1&query=26.8189,86.65932
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 9 (9), Reg Centre: 7018 (आ.वि. रातमाटे), Link: https://www.google.com/maps/search/?api=1&query=26.80868,86.68742
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 10 (10), Reg Centre: 6955 (बालमन्दिर मा.वि., बोक्से), Link: https://www.google.com/maps/search/?api=1&query=26.80363,86.69508
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 11 (11), Reg Centre: 6958 (त्रि.मा.वि. भवन, गाईघाट), Link: https://www.google.com/maps/search/?api=1&query=26.78843,86.69791
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 12 (12), Reg Centre: 6961 (जनप्रेमी आ.वि., पुरानो गाईघाट), Link: https://www.google.com/maps/search/?api=1&query=26.78393,86.70796
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 13 (13), Reg Centre: 12130 (जनता नि.मा.वि., बहेडुवा), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 13 (13), Reg Centre: 6963 (जनता माध्यामिक विद्यालय, असारी), Link: https://www.google.com/maps/search/?api=1&query=26.78722,86.72685
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 14 (14), Reg Centre: 6491 (श्री माध्यमिक विद्यालय,साउने), Link: https://www.google.com/maps/search/?api=1&query=26.87729,86.75351
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 15 (15), Reg Centre: 6486 (जनता मा.वि., रानीवास), Link: https://www.google.com/maps/search/?api=1&query=26.90202,86.72807
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 15 (15), Reg Centre: 6488 (सिद्धवती मा.वि., खाँबु), Link: https://www.google.com/maps/search/?api=1&query=26.90062,86.74815
+State: 1 District: 14 (उदयपुर), VDC: 5134 (त्रियुगा नगरपालिका), Ward: 16 (16), Reg Centre: 6659 (मा.वि. चिलाउने), Link: https://www.google.com/maps/search/?api=1&query=26.89292,86.67667
+State: 1 District: 14 (उदयपुर), VDC: 5135 (रौतामाई गाउँपालिका), Ward: 1 (1), Reg Centre: 10777 (पन्चकन्या आधारभूत विद्यालय, डहर), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5135 (रौतामाई गाउँपालिका), Ward: 2 (2), Reg Centre: 6782 (रसुवा मा.वि., भुट्टार), Link: https://www.google.com/maps/search/?api=1&query=26.99816,86.6609
+State: 1 District: 14 (उदयपुर), VDC: 5135 (रौतामाई गाउँपालिका), Ward: 3 (3), Reg Centre: 12094 (वडा नं ३ वडा को कार्यालय भवन, पाकाना), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5135 (रौतामाई गाउँपालिका), Ward: 4 (4), Reg Centre: 6674 (महेन्द्र मा.वि., पोखरी), Link: https://www.google.com/maps/search/?api=1&query=26.99224,86.6793
+State: 1 District: 14 (उदयपुर), VDC: 5135 (रौतामाई गाउँपालिका), Ward: 5 (5), Reg Centre: 6663 (पशुपति मा.वि., ज्यामिरे, डाँडागाउँ), Link: https://www.google.com/maps/search/?api=1&query=26.9656,86.73022
+State: 1 District: 14 (उदयपुर), VDC: 5135 (रौतामाई गाउँपालिका), Ward: 6 (6), Reg Centre: 10779 (रौता जनता आ.वि., बोलुङ्खा), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5135 (रौतामाई गाउँपालिका), Ward: 7 (7), Reg Centre: 6776 (नमुना मा.वि., मुर्कुची, रौता), Link: https://www.google.com/maps/search/?api=1&query=26.89497,86.6245
+State: 1 District: 14 (उदयपुर), VDC: 5135 (रौतामाई गाउँपालिका), Ward: 8 (8), Reg Centre: 12102 (वडा नं ८ को वडा कार्यालय भवन, एमुटार), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5137 (लिम्चुङबुङ गाउँपालिका), Ward: 1 (1), Reg Centre: 7104 (माध्यामिक विद्यालय वाँसबोटे, बरभञ्ज्याङ), Link: https://www.google.com/maps/search/?api=1&query=27.12522,86.60125
+State: 1 District: 14 (उदयपुर), VDC: 5137 (लिम्चुङबुङ गाउँपालिका), Ward: 2 (2), Reg Centre: 7111 (जनता आ.वि. आम्वोटे), Link: https://www.google.com/maps/search/?api=1&query=27.11755,86.64519
+State: 1 District: 14 (उदयपुर), VDC: 5137 (लिम्चुङबुङ गाउँपालिका), Ward: 2 (2), Reg Centre: 7109 (महेन्द्र दिप मा.वि. ताम्लीछा), Link: https://www.google.com/maps/search/?api=1&query=27.10135,86.65274
+State: 1 District: 14 (उदयपुर), VDC: 5137 (लिम्चुङबुङ गाउँपालिका), Ward: 3 (3), Reg Centre: 7100 (आ.वि. तमारो, रातमाटे), Link: https://www.google.com/maps/search/?api=1&query=27.06782,86.6136
+State: 1 District: 14 (उदयपुर), VDC: 5137 (लिम्चुङबुङ गाउँपालिका), Ward: 3 (3), Reg Centre: 7093 (महेन्द्र मा.वि. सिर्वानी, बाराहा), Link: https://www.google.com/maps/search/?api=1&query=27.09254,86.62213
+State: 1 District: 14 (उदयपुर), VDC: 5137 (लिम्चुङबुङ गाउँपालिका), Ward: 4 (4), Reg Centre: 6948 (क्या. पर्शुराम पद्‍मा राई मा.वि. बलम्ता), Link: https://www.google.com/maps/search/?api=1&query=27.08341,86.67043
+State: 1 District: 14 (उदयपुर), VDC: 5137 (लिम्चुङबुङ गाउँपालिका), Ward: 5 (5), Reg Centre: 6786 (जनता मा.वि. रसुवा, जाँते), Link: https://www.google.com/maps/search/?api=1&query=27.04882,86.68078
+State: 1 District: 14 (उदयपुर), VDC: 5136 (वेलका नगरपालिका), Ward: 1 (1), Reg Centre: 6535 (जनता वेल्का मा.वि., पुरन्दह), Link: https://www.google.com/maps/search/?api=1&query=26.73055,86.98505
+State: 1 District: 14 (उदयपुर), VDC: 5136 (वेलका नगरपालिका), Ward: 2 (2), Reg Centre: 6539 (सप्तकौशीका मा.वि., भागलपुर), Link: https://www.google.com/maps/search/?api=1&query=26.74662,87.01937
+State: 1 District: 14 (उदयपुर), VDC: 5136 (वेलका नगरपालिका), Ward: 3 (3), Reg Centre: 6543 (कोशी जनता मा.वि., रामपुर), Link: https://www.google.com/maps/search/?api=1&query=26.80384,87.06229
+State: 1 District: 14 (उदयपुर), VDC: 5136 (वेलका नगरपालिका), Ward: 4 (4), Reg Centre: 10744 (जनता मा.वि.,गुरङ्गचौरी), Link: https://www.google.com/maps/search/?api=1&query=26.81446,87.0343
+State: 1 District: 14 (उदयपुर), VDC: 5136 (वेलका नगरपालिका), Ward: 5 (5), Reg Centre: 10746 (देउराली आ.वि., गलेनी), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5136 (वेलका नगरपालिका), Ward: 6 (6), Reg Centre: 6525 (जनता मा.वि.,पुवारेथुम्का), Link: https://www.google.com/maps/search/?api=1&query=26.87731,87.05181
+State: 1 District: 14 (उदयपुर), VDC: 5136 (वेलका नगरपालिका), Ward: 7 (7), Reg Centre: 6529 (मैनामैनी मा.वि.मूलगाउँ), Link: https://www.google.com/maps/search/?api=1&query=26.89805,87.15109
+State: 1 District: 14 (उदयपुर), VDC: 5136 (वेलका नगरपालिका), Ward: 8 (8), Reg Centre: 10748 (नि.मा.वी. डुङखोला), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 14 (उदयपुर), VDC: 5136 (वेलका नगरपालिका), Ward: 9 (9), Reg Centre: 10750 (वरपिपल मा.वि., कमलाबारी), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5122 (खिजीदेम्वा गाउँपालिका), Ward: 1 (1), Reg Centre: 10936 (चुली आधारभुत विद्यालय, गैरागाउँ), Link: https://www.google.com/maps/search/?api=1&query=27.458289,86.28686
+State: 1 District: 13 (ओखलढुंगा), VDC: 5122 (खिजीदेम्वा गाउँपालिका), Ward: 2 (2), Reg Centre: 5904 (चण्डेश्वरी मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.446,86.29653
+State: 1 District: 13 (ओखलढुंगा), VDC: 5122 (खिजीदेम्वा गाउँपालिका), Ward: 3 (3), Reg Centre: 5895 (चण्डेश्वरी मा.वि. माझ गाउँ), Link: https://www.google.com/maps/search/?api=1&query=27.46247,86.30672
+State: 1 District: 13 (ओखलढुंगा), VDC: 5122 (खिजीदेम्वा गाउँपालिका), Ward: 4 (4), Reg Centre: 9868 (कुण्डली मा.वि. खिजिकाती), Link: https://www.google.com/maps/search/?api=1&query=27.47825,86.31816
+State: 1 District: 13 (ओखलढुंगा), VDC: 5122 (खिजीदेम्वा गाउँपालिका), Ward: 5 (5), Reg Centre: 5885 (फूलमती मा.वि. खिजिफलाटे), Link: https://www.google.com/maps/search/?api=1&query=27.43314,86.33832
+State: 1 District: 13 (ओखलढुंगा), VDC: 5122 (खिजीदेम्वा गाउँपालिका), Ward: 6 (6), Reg Centre: 11903 (चम्पादेवी आ.वि., बन्से), Link: https://www.google.com/maps/search/?api=1&query=27.414217,86.378
+State: 1 District: 13 (ओखलढुंगा), VDC: 5122 (खिजीदेम्वा गाउँपालिका), Ward: 6 (6), Reg Centre: 11902 (चम्पादेवी आ.वि.,महभिर), Link: https://www.google.com/maps/search/?api=1&query=27.394886,86.3566
+State: 1 District: 13 (ओखलढुंगा), VDC: 5122 (खिजीदेम्वा गाउँपालिका), Ward: 7 (7), Reg Centre: 5908 (हिमगंगा मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.51198,86.35558
+State: 1 District: 13 (ओखलढुंगा), VDC: 5122 (खिजीदेम्वा गाउँपालिका), Ward: 8 (8), Reg Centre: 5882 (भुसिंगा आ.वि. पिके), Link: https://www.google.com/maps/search/?api=1&query=27.5069,86.3797
+State: 1 District: 13 (ओखलढुंगा), VDC: 5122 (खिजीदेम्वा गाउँपालिका), Ward: 9 (9), Reg Centre: 11702 (फाप्रे आ.वि., फाप्रे), Link: https://www.google.com/maps/search/?api=1&query=27.437377,86.4087
+State: 1 District: 13 (ओखलढुंगा), VDC: 5123 (चम्पादेवी गाउँपालिका), Ward: 1 (1), Reg Centre: 6293 (गोल्मादेवी मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5123 (चम्पादेवी गाउँपालिका), Ward: 2 (2), Reg Centre: 10952 (गोल्मादेवी आ.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.27697,86.2505
+State: 1 District: 13 (ओखलढुंगा), VDC: 5123 (चम्पादेवी गाउँपालिका), Ward: 3 (3), Reg Centre: 10951 (वडा कार्यालय, ताप्केडाँडा), Link: https://www.google.com/maps/search/?api=1&query=27.2999,86.2767
+State: 1 District: 13 (ओखलढुंगा), VDC: 5123 (चम्पादेवी गाउँपालिका), Ward: 4 (4), Reg Centre: 11708 (वडा कार्यालय, फेदिगुठ चिलाउने), Link: https://www.google.com/maps/search/?api=1&query=27.307606,86.3451
+State: 1 District: 13 (ओखलढुंगा), VDC: 5123 (चम्पादेवी गाउँपालिका), Ward: 5 (5), Reg Centre: 10953 (भगवती आ. वि, पोखरे), Link: https://www.google.com/maps/search/?api=1&query=27.294804,86.3368
+State: 1 District: 13 (ओखलढुंगा), VDC: 5123 (चम्पादेवी गाउँपालिका), Ward: 6 (6), Reg Centre: 6303 (ज्ञान प्रकाश मा.वि. घोराखारी), Link: https://www.google.com/maps/search/?api=1&query=27.33355,86.28374
+State: 1 District: 13 (ओखलढुंगा), VDC: 5123 (चम्पादेवी गाउँपालिका), Ward: 7 (7), Reg Centre: 6305 (ज्ञान प्रकाश मा.वि., फूलबारी), Link: https://www.google.com/maps/search/?api=1&query=27.32511,86.31112
+State: 1 District: 13 (ओखलढुंगा), VDC: 5123 (चम्पादेवी गाउँपालिका), Ward: 8 (8), Reg Centre: 10950 (कल्पेश्वर मावि, विलन्दु), Link: https://www.google.com/maps/search/?api=1&query=27.358049,86.3166
+State: 1 District: 13 (ओखलढुंगा), VDC: 5123 (चम्पादेवी गाउँपालिका), Ward: 9 (9), Reg Centre: 11406 (जीवन ज्योती आधारभुत विद्यालय, मिश्रभञ्ज्याङ), Link: https://www.google.com/maps/search/?api=1&query=27.342931,86.3131
+State: 1 District: 13 (ओखलढुंगा), VDC: 5123 (चम्पादेवी गाउँपालिका), Ward: 10 (10), Reg Centre: 6377 (सुनकेशरी मा.वि. नर्कटे पोखरी), Link: https://www.google.com/maps/search/?api=1&query=27.34781,86.279
+State: 1 District: 13 (ओखलढुंगा), VDC: 5124 (चिशंखुगढी गाउँपालिका), Ward: 1 (1), Reg Centre: 5741 (कुईभिर मा.वि. कुइभीरटार), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5124 (चिशंखुगढी गाउँपालिका), Ward: 1 (1), Reg Centre: 5742 (गहते आधारभूत विद्यालय), Link: https://www.google.com/maps/search/?api=1&query=27.31925,86.653
+State: 1 District: 13 (ओखलढुंगा), VDC: 5124 (चिशंखुगढी गाउँपालिका), Ward: 2 (2), Reg Centre: 5822 (कालिका आ.वि., पोखरे), Link: https://www.google.com/maps/search/?api=1&query=27.30448,86.65599
+State: 1 District: 13 (ओखलढुंगा), VDC: 5124 (चिशंखुगढी गाउँपालिका), Ward: 3 (3), Reg Centre: 5738 (वडा कार्यालय भवन, जगनिडाँडा), Link: https://www.google.com/maps/search/?api=1&query=27.29432,86.63284
+State: 1 District: 13 (ओखलढुंगा), VDC: 5124 (चिशंखुगढी गाउँपालिका), Ward: 4 (4), Reg Centre: 5825 (जालपा मा.वि., कालिमाटे रातमाटे), Link: https://www.google.com/maps/search/?api=1&query=27.31415,86.60201
+State: 1 District: 13 (ओखलढुंगा), VDC: 5124 (चिशंखुगढी गाउँपालिका), Ward: 5 (5), Reg Centre: 5829 (कृषि सेवा केन्द्र), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5124 (चिशंखुगढी गाउँपालिका), Ward: 6 (6), Reg Centre: 5832 (छात्र प्रगति मा.वि. आले टोल, भदौरे), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5124 (चिशंखुगढी गाउँपालिका), Ward: 7 (7), Reg Centre: 12080 (वडा कार्यालय, ठुलढुङ्गा), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5124 (चिशंखुगढी गाउँपालिका), Ward: 8 (8), Reg Centre: 5744 (माम्खा मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.29682,86.5761
+State: 1 District: 13 (ओखलढुंगा), VDC: 5125 (मानेभन्ज्याङ गाउँपालिका), Ward: 1 (1), Reg Centre: 6401 (कालिमा मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.23595,86.53954
+State: 1 District: 13 (ओखलढुंगा), VDC: 5125 (मानेभन्ज्याङ गाउँपालिका), Ward: 2 (2), Reg Centre: 6219 (मनकामना मा.वि. दलकाकु), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5125 (मानेभन्ज्याङ गाउँपालिका), Ward: 3 (3), Reg Centre: 6221 (सन्देश आधारभूत विद्यालय आहाले उँबु), Link: https://www.google.com/maps/search/?api=1&query=27.21876,86.49194
+State: 1 District: 13 (ओखलढुंगा), VDC: 5125 (मानेभन्ज्याङ गाउँपालिका), Ward: 4 (4), Reg Centre: 6406 (भिमसेनस्थान मा.वि., केतुके), Link: https://www.google.com/maps/search/?api=1&query=27.25126,86.4882
+State: 1 District: 13 (ओखलढुंगा), VDC: 5125 (मानेभन्ज्याङ गाउँपालिका), Ward: 5 (5), Reg Centre: 6232 (भगवती मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.21432,86.44498
+State: 1 District: 13 (ओखलढुंगा), VDC: 5125 (मानेभन्ज्याङ गाउँपालिका), Ward: 6 (6), Reg Centre: 6235 (जनता आधारभुत विद्यालय, थाक्ले), Link: https://www.google.com/maps/search/?api=1&query=27.18674,86.44446
+State: 1 District: 13 (ओखलढुंगा), VDC: 5125 (मानेभन्ज्याङ गाउँपालिका), Ward: 6 (6), Reg Centre: 12250 (महादेवस्थान मा.वि., हिलेपानी), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5125 (मानेभन्ज्याङ गाउँपालिका), Ward: 7 (7), Reg Centre: 11709 (सहिद स्मृति आ.वि., सातसल्ले), Link: https://www.google.com/maps/search/?api=1&query=27.19647,86.4128
+State: 1 District: 13 (ओखलढुंगा), VDC: 5125 (मानेभन्ज्याङ गाउँपालिका), Ward: 7 (7), Reg Centre: 12256 (हर्कपुर मा.वि., हर्कपुर), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5125 (मानेभन्ज्याङ गाउँपालिका), Ward: 8 (8), Reg Centre: 10946 (शिवदुती आधारभुत विद्यालय), Link: https://www.google.com/maps/search/?api=1&query=27.2115659,86.4187
+State: 1 District: 13 (ओखलढुंगा), VDC: 5125 (मानेभन्ज्याङ गाउँपालिका), Ward: 9 (9), Reg Centre: 6230 (निकेतन मा.वि. माधवपुर), Link: https://www.google.com/maps/search/?api=1&query=27.23287,86.42216
+State: 1 District: 13 (ओखलढुंगा), VDC: 5126 (मोलुङ गाउँपालिका), Ward: 1 (1), Reg Centre: 12074 (वडा कार्यालय, कुन्तादेवी), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5126 (मोलुङ गाउँपालिका), Ward: 2 (2), Reg Centre: 12221 (गणेश मा.वि., ढुस्के), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5126 (मोलुङ गाउँपालिका), Ward: 2 (2), Reg Centre: 5846 (वरूणेश्वर मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.34502,86.43962
+State: 1 District: 13 (ओखलढुंगा), VDC: 5126 (मोलुङ गाउँपालिका), Ward: 3 (3), Reg Centre: 11703 (चम्पादेवी आ.वि.), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5126 (मोलुङ गाउँपालिका), Ward: 4 (4), Reg Centre: 11704 (गुरुकुल वेद विद्याश्रम मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.330439,86.424
+State: 1 District: 13 (ओखलढुंगा), VDC: 5126 (मोलुङ गाउँपालिका), Ward: 5 (5), Reg Centre: 5871 (शिवदुती मा.वि. प्राप्चा), Link: https://www.google.com/maps/search/?api=1&query=27.36237,86.4268
+State: 1 District: 13 (ओखलढुंगा), VDC: 5126 (मोलुङ गाउँपालिका), Ward: 6 (6), Reg Centre: 11705 (कालिका मा.वि., भालुथुम्का), Link: https://www.google.com/maps/search/?api=1&query=27.384769,86.3992
+State: 1 District: 13 (ओखलढुंगा), VDC: 5126 (मोलुङ गाउँपालिका), Ward: 7 (7), Reg Centre: 5911 (जेसे माध्यामिक विद्यालय, जेसे), Link: https://www.google.com/maps/search/?api=1&query=27.3876,86.43642
+State: 1 District: 13 (ओखलढुंगा), VDC: 5126 (मोलुङ गाउँपालिका), Ward: 7 (7), Reg Centre: 12232 (वडा कार्यालय, तालकोट), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5126 (मोलुङ गाउँपालिका), Ward: 8 (8), Reg Centre: 5861 (स्वास्थ्य चौकी, रागाँदीप), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5127 (लिखु गाउँपालिका), Ward: 1 (1), Reg Centre: 6387 (च्युरीडांडा मा.वि. च्युरीडांडा), Link: https://www.google.com/maps/search/?api=1&query=27.31816,86.24651
+State: 1 District: 13 (ओखलढुंगा), VDC: 5127 (लिखु गाउँपालिका), Ward: 2 (2), Reg Centre: 6390 (ज्ञान ज्योति मा.वि., हुलाकचौर), Link: https://www.google.com/maps/search/?api=1&query=27.33904,86.24025
+State: 1 District: 13 (ओखलढुंगा), VDC: 5127 (लिखु गाउँपालिका), Ward: 3 (3), Reg Centre: 6374 (भिमसेनस्थान मा.वि., नर्मदेश्वर), Link: https://www.google.com/maps/search/?api=1&query=27.36137,86.24065
+State: 1 District: 13 (ओखलढुंगा), VDC: 5127 (लिखु गाउँपालिका), Ward: 4 (4), Reg Centre: 11706 (वडा कार्यालय, बाङ्गेपिपल), Link: https://www.google.com/maps/search/?api=1&query=27.381017,86.2389
+State: 1 District: 13 (ओखलढुंगा), VDC: 5127 (लिखु गाउँपालिका), Ward: 5 (5), Reg Centre: 10955 (वडडाँडा आ.वि., वडडाँडा), Link: https://www.google.com/maps/search/?api=1&query=27.374771,86.256
+State: 1 District: 13 (ओखलढुंगा), VDC: 5127 (लिखु गाउँपालिका), Ward: 6 (6), Reg Centre: 6369 (ग्रामोदय युगकवि सिध्दिचरण मा.वि. गाम्नाङटार), Link: https://www.google.com/maps/search/?api=1&query=27.39518,86.25318
+State: 1 District: 13 (ओखलढुंगा), VDC: 5127 (लिखु गाउँपालिका), Ward: 7 (7), Reg Centre: 11707 (वडा कार्यालय), Link: https://www.google.com/maps/search/?api=1&query=27.395071,86.2693
+State: 1 District: 13 (ओखलढुंगा), VDC: 5127 (लिखु गाउँपालिका), Ward: 8 (8), Reg Centre: 6393 (वडा कार्यालय भवन, केराबारी), Link: https://www.google.com/maps/search/?api=1&query=27.4091,86.25951
+State: 1 District: 13 (ओखलढुंगा), VDC: 5127 (लिखु गाउँपालिका), Ward: 9 (9), Reg Centre: 6397 (जनजीवन मा.वि. वाच्पु), Link: https://www.google.com/maps/search/?api=1&query=27.41823,86.26975
+State: 1 District: 13 (ओखलढुंगा), VDC: 5127 (लिखु गाउँपालिका), Ward: 9 (9), Reg Centre: 12239 (लाम्रांग आ.वि., पोकली), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 1 (1), Reg Centre: 5836 (वडा कार्यालय भवन, विमिरे), Link: https://www.google.com/maps/search/?api=1&query=27.24293,86.58075
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 2 (2), Reg Centre: 5841 (कडेणी मा.वि. कडेणी, ठुलाछाप), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 2 (2), Reg Centre: 5840 (कालिका आधारभूत विद्यालय, आहाले), Link: https://www.google.com/maps/search/?api=1&query=27.26693,86.56771
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 3 (3), Reg Centre: 5711 (अँधेरी नारायणस्थान मा.वि., असिने), Link: https://www.google.com/maps/search/?api=1&query=27.2869,86.52502
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 4 (4), Reg Centre: 5731 (रुम्जाटार मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 5 (5), Reg Centre: 5716 (कालिका देवो आधारभूत विद्यालय, वर्णालु), Link: https://www.google.com/maps/search/?api=1&query=27.3284,86.53786
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 6 (6), Reg Centre: 5854 (जन्तरखानी मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 7 (7), Reg Centre: 5850 (विगुटार मा.वि. विगुटार), Link: https://www.google.com/maps/search/?api=1&query=27.35591,86.49334
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 8 (8), Reg Centre: 5736 (श्री चम्पादेवी मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.29146,86.48543
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 9 (9), Reg Centre: 5719 (कुन्ता मा.वि., ज्यामिरे), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 10 (10), Reg Centre: 6226 (कालिका मा.वि., रुप्से देउराली), Link: https://www.google.com/maps/search/?api=1&query=27.29121,86.45538
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 10 (10), Reg Centre: 6225 (पुण्य माता मा.वि. वेतिनी), Link: https://www.google.com/maps/search/?api=1&query=27.28814,86.47368
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 11 (11), Reg Centre: 5723 (नेपाल खाद्य संस्थान), Link: https://www.google.com/maps/search/?api=1&query=27.30807,86.50435
+State: 1 District: 13 (ओखलढुंगा), VDC: 5128 (सिद्धिचरण नगरपालिका), Ward: 12 (12), Reg Centre: 5727 (जिल्ला समन्वय समितिको कार्यालय), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5129 (सुनकोशी गाउँपालिका), Ward: 1 (1), Reg Centre: 6276 (वलखु मा.वि., वलखु भञ्ज्याङ), Link: https://www.google.com/maps/search/?api=1&query=27.24218,86.34075
+State: 1 District: 13 (ओखलढुंगा), VDC: 5129 (सुनकोशी गाउँपालिका), Ward: 2 (2), Reg Centre: 6273 (आरू भञ्ज्याङ माध्यामिक विद्यालय, दिप्सिङ्ग), Link: https://www.google.com/maps/search/?api=1&query=27.25989,86.31394
+State: 1 District: 13 (ओखलढुंगा), VDC: 5129 (सुनकोशी गाउँपालिका), Ward: 3 (3), Reg Centre: 6240 (कालिका मा.वि. सिस्नेरी), Link: https://www.google.com/maps/search/?api=1&query=27.24782,86.36927
+State: 1 District: 13 (ओखलढुंगा), VDC: 5129 (सुनकोशी गाउँपालिका), Ward: 4 (4), Reg Centre: 10947 (थानी आधारभूत विद्यालय, जेरुङ), Link: https://www.google.com/maps/search/?api=1&query=27.220173,86.3738
+State: 1 District: 13 (ओखलढुंगा), VDC: 5129 (सुनकोशी गाउँपालिका), Ward: 5 (5), Reg Centre: 6254 (चौतारा मा.वि., डांडाखर्क), Link: https://www.google.com/maps/search/?api=1&query=27.29191,86.36366
+State: 1 District: 13 (ओखलढुंगा), VDC: 5129 (सुनकोशी गाउँपालिका), Ward: 6 (6), Reg Centre: 6256 (दामती माध्यामिक विद्यालय, पारा), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 13 (ओखलढुंगा), VDC: 5129 (सुनकोशी गाउँपालिका), Ward: 7 (7), Reg Centre: 6261 (प्रबुद्ध मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.28803,86.41138
+State: 1 District: 13 (ओखलढुंगा), VDC: 5129 (सुनकोशी गाउँपालिका), Ward: 8 (8), Reg Centre: 6266 (जगतजननी आधारभूत विद्यालय, मानेडांडा), Link: https://www.google.com/maps/search/?api=1&query=27.29476,86.429
+State: 1 District: 13 (ओखलढुंगा), VDC: 5129 (सुनकोशी गाउँपालिका), Ward: 9 (9), Reg Centre: 6247 (कालिका आधारभूत विद्यालय, कोषभञ्ज्याङ), Link: https://www.google.com/maps/search/?api=1&query=27.30806,86.3777
+State: 1 District: 13 (ओखलढुंगा), VDC: 5129 (सुनकोशी गाउँपालिका), Ward: 10 (10), Reg Centre: 6250 (कुसादेवी मा.वि. कुसादेवी), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 1 (1), Reg Centre: 5172 (कालिका बालविकास मा.वि., राखावाङ्देल), Link: https://www.google.com/maps/search/?api=1&query=27.35424,86.79905
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 1 (1), Reg Centre: 5175 (जनहित आधारभूत विद्यालय, शोखु), Link: https://www.google.com/maps/search/?api=1&query=27.37691,86.81168
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 2 (2), Reg Centre: 5150 (कालिका मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.38471,86.77804
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 2 (2), Reg Centre: 5152 (जालपा मा.वि., वादेल), Link: https://www.google.com/maps/search/?api=1&query=27.38701,86.80184
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 3 (3), Reg Centre: 5145 (त्रि.मा.वि., ऐंसेलुखर्क), Link: https://www.google.com/maps/search/?api=1&query=27.36437,86.74979
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 3 (3), Reg Centre: 5147 (राष्ट्रिय प्रजातन्त्र माध्यामिक विद्यालय, दिम्मा पातेल), Link: https://www.google.com/maps/search/?api=1&query=27.36143,86.77554
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 4 (4), Reg Centre: 5183 (गुराँस माध्यामिक विद्यालय, दिप्दी), Link: https://www.google.com/maps/search/?api=1&query=27.37944,86.73274
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 4 (4), Reg Centre: 5179 (सिम्ले मा.वि., सिम्ले), Link: https://www.google.com/maps/search/?api=1&query=27.37812,86.71056
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 5 (5), Reg Centre: 5193 (ज्योति आधारभूत विद्यालय, आहाल डांडा), Link: https://www.google.com/maps/search/?api=1&query=27.36267,86.70343
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 5 (5), Reg Centre: 5188 (शिशु मा.वि.,व राईगाउँ), Link: https://www.google.com/maps/search/?api=1&query=27.36385,86.71936
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 6 (6), Reg Centre: 5168 (कालिका आधारभूत विद्यालयज्यामिरे), Link: https://www.google.com/maps/search/?api=1&query=27.32444,86.69419
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 7 (7), Reg Centre: 5158 (भानु माध्यामिक विद्यालय, लेवा), Link: https://www.google.com/maps/search/?api=1&query=27.33031,86.74318
+State: 1 District: 12 (खोटाङ), VDC: 5112 (ऐसेलुखर्क गाउँपालिका), Ward: 7 (7), Reg Centre: 5153 (माक्पा मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.33427,86.75795
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 1 (1), Reg Centre: 5130 (गौरी पञ्चकन्या आधारभूत विद्यालय, सुम्दे), Link: https://www.google.com/maps/search/?api=1&query=27.28941,86.91248
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 1 (1), Reg Centre: 10244 (तोमाने आधारभूत विद्यालय, फेदी), Link: https://www.google.com/maps/search/?api=1&query=27.31587,86.93146
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 1 (1), Reg Centre: 5126 (पत्करु आधारभूत विद्यालय, पत्करु), Link: https://www.google.com/maps/search/?api=1&query=27.30681,86.91481
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 2 (2), Reg Centre: 5120 (शुक्रजित मा.वि., ममात्तिम), Link: https://www.google.com/maps/search/?api=1&query=27.31027,86.86775
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 2 (2), Reg Centre: 5123 (सिंहकाली आधारभूत विद्यालय), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 3 (3), Reg Centre: 5104 (मनकामना आधारभूत विद्यालय, ठाटीडाँडा), Link: https://www.google.com/maps/search/?api=1&query=27.31067,86.85491
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 3 (3), Reg Centre: 5105 (राष्ट्रिय मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.31625,86.84401
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 4 (4), Reg Centre: 5101 (जालपा आधारभूत विद्यालय, पिपलडाँडा), Link: https://www.google.com/maps/search/?api=1&query=27.33969,86.82596
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 4 (4), Reg Centre: 5102 (पृथ्वी मा.वि., वाक्सिला), Link: https://www.google.com/maps/search/?api=1&query=27.32526,86.82207
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 5 (5), Reg Centre: 5137 (थर्पुडांडा मा.वि., दारेगौंडा), Link: https://www.google.com/maps/search/?api=1&query=27.32744,86.78059
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 6 (6), Reg Centre: 5132 (६ नं. वडा कार्यालय, दिप्सुङ), Link: https://www.google.com/maps/search/?api=1&query=27.35333,86.83921
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 7 (7), Reg Centre: 5141 (सिंहदेवी आधारभूत विद्यालय, रियाङ), Link: https://www.google.com/maps/search/?api=1&query=27.37378,86.86392
+State: 1 District: 12 (खोटाङ), VDC: 5113 (केपिलासगढी गाउँपालिका), Ward: 7 (7), Reg Centre: 5138 (सूर्य मा.वि., सुङ्देलटार), Link: https://www.google.com/maps/search/?api=1&query=27.35951,86.86138
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 1 (1), Reg Centre: 9866 (बिणा मा.बि. ठांटी भन्ज्याङ), Link: https://www.google.com/maps/search/?api=1&query=27.05743,86.92514
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 2 (2), Reg Centre: 5616 (जनसेवा आधारभूत विद्यालय, दितुङ), Link: https://www.google.com/maps/search/?api=1&query=27.09108,86.88824
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 2 (2), Reg Centre: 5612 (महाकन्या आ.वि., वाप्लुखा), Link: https://www.google.com/maps/search/?api=1&query=27.08189,86.90547
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 2 (2), Reg Centre: 10241 (महेन्द्रोदय मा.वि., वाप्लुखा), Link: https://www.google.com/maps/search/?api=1&query=27.09577,86.90088
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 3 (3), Reg Centre: 5622 (सावाकाली मा.वि., कटहरे मयुरनाच्ने), Link: https://www.google.com/maps/search/?api=1&query=27.04842,86.89089
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 3 (3), Reg Centre: 5625 (सावानागी नि.मा.वा., सावानागी), Link: https://www.google.com/maps/search/?api=1&query=27.06699,86.88949
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 4 (4), Reg Centre: 5533 (देवस्थान आधारभूत विद्यालय, कुलाभञ्ज्याङ नौला), Link: https://www.google.com/maps/search/?api=1&query=27.05232,86.86718
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 4 (4), Reg Centre: 5531 (भाषा आ.वि. वड्कादियाले), Link: https://www.google.com/maps/search/?api=1&query=27.04095,86.86351
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 5 (5), Reg Centre: 5500 (सप्तकन्या मा.वि., चिप्रिङ), Link: https://www.google.com/maps/search/?api=1&query=27.07729,86.82877
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 6 (6), Reg Centre: 5503 (इन्द्रायणी पोखरी मा.वि. भवन), Link: https://www.google.com/maps/search/?api=1&query=27.05382,86.82137
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 7 (7), Reg Centre: 9901 (भगवती दिनानाथ मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.03165,86.84374
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 8 (8), Reg Centre: 5525 (कृष्ण मा.वि., बर्रे), Link: https://www.google.com/maps/search/?api=1&query=27.03097,86.81931
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 8 (8), Reg Centre: 5528 (सिम्पानी मा.वि., लोहोकिल), Link: https://www.google.com/maps/search/?api=1&query=27.04091,86.79326
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 9 (9), Reg Centre: 5515 (भानु आ.वि., माबे), Link: https://www.google.com/maps/search/?api=1&query=27.03022,86.77006
+State: 1 District: 12 (खोटाङ), VDC: 5114 (खोटेहाङ गाउँपालिका), Ward: 9 (9), Reg Centre: 5513 (लक्ष्मी मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.00761,86.78354
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 1 (1), Reg Centre: 5640 (शिक्षा ज्योति मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=26.92143,86.91911
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 1 (1), Reg Centre: 5636 (शिक्षा निकेतन औतारी मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=26.94094,86.89291
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 2 (2), Reg Centre: 5540 (विजय आधारभूत विद्यालय, वालिङ), Link: https://www.google.com/maps/search/?api=1&query=26.94021,86.92457
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 2 (2), Reg Centre: 5539 (सिंहदेवी मा.वि. होमालुङ), Link: https://www.google.com/maps/search/?api=1&query=26.96189,86.91513
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 3 (3), Reg Centre: 5561 (जलेश्वरी नि. मा.वि., सालम्बु), Link: https://www.google.com/maps/search/?api=1&query=26.97871,86.92229
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 3 (3), Reg Centre: 5557 (लक्ष्मी मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=26.99335,86.92499
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 4 (4), Reg Centre: 5555 (जलेश्वरी मा.वि., सामाताङ), Link: https://www.google.com/maps/search/?api=1&query=27.00428,86.95061
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 4 (4), Reg Centre: 5554 (विश्वज्योति माध्यामिक विद्यालय, चम्लुङ), Link: https://www.google.com/maps/search/?api=1&query=27.02351,86.91565
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 5 (5), Reg Centre: 5545 (चिसापानी मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=26.98577,86.88539
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 5 (5), Reg Centre: 5549 (जनज्योति आधारभूत विद्यालय, खुटावितलव), Link: https://www.google.com/maps/search/?api=1&query=26.99977,86.87527
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 6 (6), Reg Centre: 5647 (पैंयाटार आधारभूत विद्यालय, निगालवास), Link: https://www.google.com/maps/search/?api=1&query=26.96421,86.88722
+State: 1 District: 12 (खोटाङ), VDC: 5115 (जन्तेढुंगा गाउँपालिका), Ward: 6 (6), Reg Centre: 5644 (६ नं.वडा कार्यालय, दिप्लुङ), Link: https://www.google.com/maps/search/?api=1&query=26.96894,86.86348
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 1 (1), Reg Centre: 5266 (पञ्च मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.21623,86.79867
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 1 (1), Reg Centre: 5267 (सरस्वती मा.वि., दिक्तेल), Link: https://www.google.com/maps/search/?api=1&query=27.21681,86.79333
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 2 (2), Reg Centre: 5270 (हिमालय माध्यामिक विद्यालय, सोल्मा), Link: https://www.google.com/maps/search/?api=1&query=27.24228,86.79735
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 3 (3), Reg Centre: 5260 (सावित्रा मा.वि., वामराङ), Link: https://www.google.com/maps/search/?api=1&query=27.21812,86.76713
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 4 (4), Reg Centre: 10141 (राष्ट्रिय प्रजातन्त्र आधारभूत विद्यालय डाँडाखर्क), Link: https://www.google.com/maps/search/?api=1&query=27.18405,86.77463
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 4 (4), Reg Centre: 5370 (शितला मा.वि., खाल्ले), Link: https://www.google.com/maps/search/?api=1&query=27.20004,86.77533
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 5 (5), Reg Centre: 5385 (वालविकास आधारभूत विद्यालय, लफ्याङ), Link: https://www.google.com/maps/search/?api=1&query=27.18895,86.81452
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 6 (6), Reg Centre: 5279 (कालिका मा.वि., नेर्पा), Link: https://www.google.com/maps/search/?api=1&query=27.23735,86.82078
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 6 (6), Reg Centre: 5274 (रामपुर आधारभूत विद्यालय, गुरूङ गाउँ), Link: https://www.google.com/maps/search/?api=1&query=27.25031,86.82321
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 7 (7), Reg Centre: 5284 (विद्योदय मा.वि., दोर्पा चिउरीडांडा), Link: https://www.google.com/maps/search/?api=1&query=27.19958,86.83571
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 8 (8), Reg Centre: 5285 (अन्नपुर्ण माध्यामिक विद्यालय, दोर्पा वालुङ), Link: https://www.google.com/maps/search/?api=1&query=27.22139,86.85481
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 9 (9), Reg Centre: 5296 (मनकामना जनकल्याण मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.21017,86.87953
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 9 (9), Reg Centre: 5291 (महेन्द्रोदय माध्यामिक विद्यालय, निर्मलीडांडा), Link: https://www.google.com/maps/search/?api=1&query=27.21386,86.88691
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 10 (10), Reg Centre: 5202 (जालपा माध्यामिक विद्यालय, सिरुवास), Link: https://www.google.com/maps/search/?api=1&query=27.29149,86.87177
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 10 (10), Reg Centre: 5196 (सरस्वती मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.29378,86.85525
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 11 (11), Reg Centre: 5115 (कालिका मा.वि., खार्मी), Link: https://www.google.com/maps/search/?api=1&query=27.29594,86.82388
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 11 (11), Reg Centre: 5112 (पार्वती आधारभूत विद्यालय, साब्रु), Link: https://www.google.com/maps/search/?api=1&query=27.30138,86.80588
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 12 (12), Reg Centre: 5110 (जालपा मा.वि. भवन, घलेगाउँ), Link: https://www.google.com/maps/search/?api=1&query=27.30872,86.77395
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 13 (13), Reg Centre: 5094 (जालपा मा.वि. भवन, नुनथला), Link: https://www.google.com/maps/search/?api=1&query=27.24985,86.73186
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 14 (14), Reg Centre: 5245 (चम्पावती मा.वि., वुईपा), Link: https://www.google.com/maps/search/?api=1&query=27.21556,86.72652
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 14 (14), Reg Centre: 5246 (जगदम्बा मा.वि., खिरी), Link: https://www.google.com/maps/search/?api=1&query=27.21199,86.70168
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 14 (14), Reg Centre: 5242 (सहयोगी आधारभूत विद्यालय, छिप्ती), Link: https://www.google.com/maps/search/?api=1&query=27.21573,86.74255
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 15 (15), Reg Centre: 5249 (चम्पावती मा.वि., वसेरी), Link: https://www.google.com/maps/search/?api=1&query=27.19018,86.73903
+State: 1 District: 12 (खोटाङ), VDC: 5118 (दिक्तेल रुपाकोट मझुवागढी नगरपालिका), Ward: 15 (15), Reg Centre: 5252 (पञ्चकन्या मा.वि., माला), Link: https://www.google.com/maps/search/?api=1&query=27.18311,86.71524
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 1 (1), Reg Centre: 5392 (महेन्द्रोदय मा.वि., याम्खा), Link: https://www.google.com/maps/search/?api=1&query=27.13937,86.77911
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 1 (1), Reg Centre: 5396 (सेतीदेवी आधारभूत विद्यालय, पोखरे), Link: https://www.google.com/maps/search/?api=1&query=27.13301,86.75851
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 2 (2), Reg Centre: 5478 (महेन्द्रोदय मा.वि., ‌ओख्रे), Link: https://www.google.com/maps/search/?api=1&query=27.11353,86.78764
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 3 (3), Reg Centre: 5494 (शान्ति मा.वि., छोरम्वु), Link: https://www.google.com/maps/search/?api=1&query=27.09328,86.75961
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 3 (3), Reg Centre: 5496 (३ नं. वडा कार्यालय,छोरम्बु), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 4 (4), Reg Centre: 5488 (महेन्द्र तारा माध्यामिक विद्यालय, मुलावारी), Link: https://www.google.com/maps/search/?api=1&query=27.05935,86.74356
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 4 (4), Reg Centre: 5490 (राम्चे निकेतन मा.वि., इजारा), Link: https://www.google.com/maps/search/?api=1&query=27.07292,86.77678
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 4 (4), Reg Centre: 5485 (४ नं. वडा कार्यालय, बतासे), Link: https://www.google.com/maps/search/?api=1&query=27.07551,86.74763
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 5 (5), Reg Centre: 5521 (रोसा भञ्ज्याङ आधारभूत विद्यालय, पञ्चमी बजार), Link: https://www.google.com/maps/search/?api=1&query=27.08171,86.78728
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 5 (5), Reg Centre: 5518 (५ नं. वडा कार्यालय, सप्तेश्वर छितापोखरी), Link: https://www.google.com/maps/search/?api=1&query=27.08856,86.80096
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 6 (6), Reg Centre: 5482 (६ नं. वडा कार्यालय, सेम्मा), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 7 (7), Reg Centre: 5408 (शान्ति मा. वि., बरडाँडा), Link: https://www.google.com/maps/search/?api=1&query=27.14818,86.79895
+State: 1 District: 12 (खोटाङ), VDC: 5116 (दिप्रुङ चुइचुम्मा गाउँपालिका), Ward: 7 (7), Reg Centre: 5401 (७ नं. वडा कार्यालय, टेम्मा), Link: https://www.google.com/maps/search/?api=1&query=27.13049,86.81348
+State: 1 District: 12 (खोटाङ), VDC: 5119 (रावा बेसी गाउँपालिका), Ward: 1 (1), Reg Centre: 5084 (रत्न राज्य आधारभुत विद्यालय, कुभिण्डे), Link: https://www.google.com/maps/search/?api=1&query=27.28191,86.72234
+State: 1 District: 12 (खोटाङ), VDC: 5119 (रावा बेसी गाउँपालिका), Ward: 1 (1), Reg Centre: 5085 (रत्न राज्य लक्ष्मी मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=27.27708,86.72458
+State: 1 District: 12 (खोटाङ), VDC: 5119 (रावा बेसी गाउँपालिका), Ward: 2 (2), Reg Centre: 5080 (शारदा मा.वि. भवन, खार्पा), Link: https://www.google.com/maps/search/?api=1&query=27.27251,86.70776
+State: 1 District: 12 (खोटाङ), VDC: 5119 (रावा बेसी गाउँपालिका), Ward: 3 (3), Reg Centre: 5089 (गुप्तेश्वर आधारभूत विद्यालय, तिर्पा), Link: https://www.google.com/maps/search/?api=1&query=27.24296,86.65482
+State: 1 District: 12 (खोटाङ), VDC: 5119 (रावा बेसी गाउँपालिका), Ward: 3 (3), Reg Centre: 5091 (विश्वज्योति मा.वि. भवन, लामीडाँडा), Link: https://www.google.com/maps/search/?api=1&query=27.25089,86.68866
+State: 1 District: 12 (खोटाङ), VDC: 5119 (रावा बेसी गाउँपालिका), Ward: 4 (4), Reg Centre: 5161 (देउराली मा.वि., डुम्रे), Link: https://www.google.com/maps/search/?api=1&query=27.31519,86.71053
+State: 1 District: 12 (खोटाङ), VDC: 5119 (रावा बेसी गाउँपालिका), Ward: 4 (4), Reg Centre: 5162 (धारापानी माध्यामिक विद्यालय), Link: https://www.google.com/maps/search/?api=1&query=27.29981,86.69061
+State: 1 District: 12 (खोटाङ), VDC: 5119 (रावा बेसी गाउँपालिका), Ward: 5 (5), Reg Centre: 5166 (गंगोदय मा.वि. भवन, दुवेकोल), Link: https://www.google.com/maps/search/?api=1&query=27.32585,86.72961
+State: 1 District: 12 (खोटाङ), VDC: 5119 (रावा बेसी गाउँपालिका), Ward: 6 (6), Reg Centre: 5074 (पञ्चकन्या माध्यामिक विद्यालय, पोखरी), Link: https://www.google.com/maps/search/?api=1&query=27.28476,86.76824
+State: 1 District: 12 (खोटाङ), VDC: 5119 (रावा बेसी गाउँपालिका), Ward: 6 (6), Reg Centre: 5078 (शारदा मा.वि. भवन, हङ्चुर), Link: https://www.google.com/maps/search/?api=1&query=27.29538,86.7423
+State: 1 District: 12 (खोटाङ), VDC: 5117 (वराहपोखरी गाउँपालिका), Ward: 1 (1), Reg Centre: 5632 (डांडाखर्क आधारभूत विद्यालय, डांडाखर्क), Link: https://www.google.com/maps/search/?api=1&query=26.97515,86.80601
+State: 1 District: 12 (खोटाङ), VDC: 5117 (वराहपोखरी गाउँपालिका), Ward: 1 (1), Reg Centre: 5629 (शंखेश्वरी मा.वि., वालिङटार), Link: https://www.google.com/maps/search/?api=1&query=26.97871,86.82225
+State: 1 District: 12 (खोटाङ), VDC: 5117 (वराहपोखरी गाउँपालिका), Ward: 2 (2), Reg Centre: 5673 (जनचेतना आधारभूत विद्यालय, चेकेथुम), Link: https://www.google.com/maps/search/?api=1&query=26.90977,86.77978
+State: 1 District: 12 (खोटाङ), VDC: 5117 (वराहपोखरी गाउँपालिका), Ward: 2 (2), Reg Centre: 5671 (२ नं. वडा कार्यालय, सुन्तले), Link: https://www.google.com/maps/search/?api=1&query=26.92869,86.79411
+State: 1 District: 12 (खोटाङ), VDC: 5117 (वराहपोखरी गाउँपालिका), Ward: 3 (3), Reg Centre: 5688 (जनविकास मा.वि., साउनेचौर), Link: https://www.google.com/maps/search/?api=1&query=26.94371,86.81825
+State: 1 District: 12 (खोटाङ), VDC: 5117 (वराहपोखरी गाउँपालिका), Ward: 4 (4), Reg Centre: 5664 (बेतुवा मा.वि.), Link: https://www.google.com/maps/search/?api=1&query=26.89939,86.82351
+State: 1 District: 12 (खोटाङ), VDC: 5117 (वराहपोखरी गाउँपालिका), Ward: 4 (4), Reg Centre: 5660 (वालकन्या मा.वि., धर्तुङ), Link: https://www.google.com/maps/search/?api=1&query=26.92729,86.82161
+State: 1 District: 12 (खोटाङ), VDC: 5117 (वराहपोखरी गाउँपालिका), Ward: 5 (5), Reg Centre: 5654 (महंकाली पाँचकन्या आधारभूत विद्यालय, वुयाटार), Link: https://www.google.com/maps/search/?api=1&query=26.92494,86.8615
+State: 1 District: 12 (खोटाङ), VDC: 5117 (वराहपोखरी गाउँपालिका), Ward: 5 (5), Reg Centre: 5656 (सरस्वती आधारभूत विद्यालय, वोरोम्तुङ नल्खु), Link: https://www.google.com/maps/search/?api=1&query=26.91281,86.87744
+State: 1 District: 12 (खोटाङ), VDC: 5117 (वराहपोखरी गाउँपालिका), Ward: 6 (6), Reg Centre: 5651 (६ नं. वडा कार्यालय, मौवाबोटे), Link: https://www.google.com/maps/search/?api=1&query=26.94986,86.86645
+State: 1 District: 12 (खोटाङ), VDC: 5120 (साकेला गाउँपालिका), Ward: 1 (1), Reg Centre: 5333 (चण्डेश्वरी माध्यामिक विद्यालय, डांडागाउँ), Link: https://www.google.com/maps/search/?api=1&query=27.19541,86.88191
+State: 1 District: 12 (खोटाङ), VDC: 5120 (साकेला गाउँपालिका), Ward: 1 (1), Reg Centre: 5325 (जालपा माध्यामिक विद्यालय, सेखुवा), Link: https://www.google.com/maps/search/?api=1&query=27.21559,86.90317
+State: 1 District: 12 (खोटाङ), VDC: 5120 (साकेला गाउँपालिका), Ward: 1 (1), Reg Centre: 5328 (राधाकृष्ण मा.वि., बाँझे), Link: https://www.google.com/maps/search/?api=1&query=27.20164,86.90807
+State: 1 District: 12 (खोटाङ), VDC: 5120 (साकेला गाउँपालिका), Ward: 2 (2), Reg Centre: 5320 (सरस्वती मा.वि., मबु), Link: https://www.google.com/maps/search/?api=1&query=27.18224,86.87196
+State: 1 District: 12 (खोटाङ), VDC: 5120 (साकेला गाउँपालिका), Ward: 2 (2), Reg Centre: 5322 (साकेला मा.वि., रम्तछा माझगाउँ), Link: https://www.google.com/maps/search/?api=1&query=27.17758,86.85651
+State: 1 District: 12 (खोटाङ), VDC: 5120 (साकेला गाउँपालिका), Ward: 3 (3), Reg Centre: 5335 (सिद्धेश्वरी मा.वि., खिदिमा), Link: https://www.google.com/maps/search/?api=1&query=27.14638,86.88562
+State: 1 District: 12 (खोटाङ), VDC: 5120 (साकेला गाउँपालिका), Ward: 4 (4), Reg Centre: 5318 (वालवालिका मा.वि., नौलाखर्क), Link: https://www.google.com/maps/search/?api=1&query=27.15965,86.85005
+State: 1 District: 12 (खोटाङ), VDC: 5120 (साकेला गाउँपालिका), Ward: 5 (5), Reg Centre: 5313 (सरस्वती मा.वि., मात्तिम), Link: https://www.google.com/maps/search/?api=1&query=27.16015,86.82701
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 1 (1), Reg Centre: 5218 (कालिका आधारभूत विद्यालय, झापा), Link: https://www.google.com/maps/search/?api=1&query=27.14933,86.46315
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 1 (1), Reg Centre: 5214 (मालिका देवी माध्यामिक विद्यालय, कदुवा), Link: https://www.google.com/maps/search/?api=1&query=27.17566,86.49527
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 2 (2), Reg Centre: 5210 (कालिका माध्यामिक विद्यालय, छोम्पाङ), Link: https://www.google.com/maps/search/?api=1&query=27.14336,86.50541
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 2 (2), Reg Centre: 10239 (डिकुवा माध्यामिक विद्यालय), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 2 (2), Reg Centre: 5207 (दाम्ली मा.वि. भवन), Link: https://www.google.com/maps/search/?api=1&query=27.13981,86.48237
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 3 (3), Reg Centre: 5221 (च्यास्मिटार मा. वि., च्यास्मिटार), Link: https://www.google.com/maps/search/?api=1&query=27.17278,86.54064
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 4 (4), Reg Centre: 5225 (लक्ष्मी मा.वि., खोक्सेली), Link: https://www.google.com/maps/search/?api=1&query=27.20674,86.56099
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 5 (5), Reg Centre: 5228 (दुर्छिम मा.वि., छापडांडा), Link: https://www.google.com/maps/search/?api=1&query=27.18517,86.59618
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 6 (6), Reg Centre: 5098 (पिपलडाँडा माध्यमिक विद्यालय, मंगलटार), Link: https://www.google.com/maps/search/?api=1&query=27.21319,86.58347
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 7 (7), Reg Centre: 5235 (कालिका आ.वि., गैरिगुठ), Link: https://www.google.com/maps/search/?api=1&query=27.20979,86.63068
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 7 (7), Reg Centre: 5233 (महेन्द्रोदय मा.वि., डांडावारी), Link: https://www.google.com/maps/search/?api=1&query=27.19061,86.62058
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 8 (8), Reg Centre: 5239 (८ नं. वडा कार्यालय, धितुङ), Link: https://www.google.com/maps/search/?api=1&query=27.16464,86.64364
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 9 (9), Reg Centre: 5095 (जनता माध्यमिक विद्यालय, सल्ले), Link: https://www.google.com/maps/search/?api=1&query=27.23075,86.62652
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 10 (10), Reg Centre: 5241 (कालिका आधारभूत विद्यालय, नवलपुर), Link: https://www.google.com/maps/search/?api=1&query=27.18706,86.67764
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 10 (10), Reg Centre: 5240 (सरस्वती मा.वि., अर्खौले), Link: https://www.google.com/maps/search/?api=1&query=27.22382,86.66808
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 11 (11), Reg Centre: 5257 (ज्योती माध्यमिक विद्यालय, राजापानी), Link: https://www.google.com/maps/search/?api=1&query=27.14547,86.71211
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 11 (11), Reg Centre: 5255 (महंकला आधारभुत विद्यालय, सिम्पानी), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 12 (खोटाङ), VDC: 5121 (हलेसी तुवाचुङ नगरपालिका), Ward: 11 (11), Reg Centre: 11450 (हिमगंगा आ.वि., आहाले), Link: https://www.google.com/maps/search/?api=1&query=27.11735,86.71341
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 1 (1), Reg Centre: 2420 (हचुमासा सा.व.उ.स. भवन, शान्तिचोक), Link: https://www.google.com/maps/search/?api=1&query=26.740715,88.008471
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 1 (1), Reg Centre: 2425 (हलुवागढ सा.व.उ.स., सिस्ने), Link: https://www.google.com/maps/search/?api=1&query=26.727005,87.991718
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 2 (2), Reg Centre: 2427 (नवज्योति आधारभूत विद्यालय, गाँजाबारी), Link: https://www.google.com/maps/search/?api=1&query=26.751191,87.966123
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 2 (2), Reg Centre: 2434 (सरस्वती आधारभूत विद्यालय, झेलेनी), Link: https://www.google.com/maps/search/?api=1&query=26.728325,87.974178
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 2 (2), Reg Centre: 2431 (सि‍हेश्वरी आधारभूत विद्यालय, बेलटार), Link: https://www.google.com/maps/search/?api=1&query=26.740142,87.960023
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 3 (3), Reg Centre: 2443 (भानु नि. मा. वि., कुम्भीटार), Link: https://www.google.com/maps/search/?api=1&query=26.713427,87.954488
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 3 (3), Reg Centre: 2439 (३ नं. वडा कार्यालय, खुँदुनाबारी), Link: https://www.google.com/maps/search/?api=1&query=26.72698,87.96201
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 4 (4), Reg Centre: 2394 (नवदुर्गा नि. मा. वि., रातेखाल), Link: https://www.google.com/maps/search/?api=1&query=26.675173,87.955661
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 4 (4), Reg Centre: 11816 (लक्ष्मी आ बि, दहिझोडा), Link: https://www.google.com/maps/search/?api=1&query=26.68038,87.9437
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 4 (4), Reg Centre: 2392 (शिवनारायण आधारभूत विद्यालय, मदनपुर), Link: https://www.google.com/maps/search/?api=1&query=26.706955,87.976788
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 5 (5), Reg Centre: 2397 (भानु मा.वि., फुलबारी), Link: https://www.google.com/maps/search/?api=1&query=26.657641,87.965063
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 5 (5), Reg Centre: 2409 (श्री माध्यामिक विद्यालय, कञ्चनवाडी), Link: https://www.google.com/maps/search/?api=1&query=26.673124,87.981986
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 6 (6), Reg Centre: 2502 (लक्ष्मी मा.वि., लक्ष्मीपुर), Link: https://www.google.com/maps/search/?api=1&query=26.663755,88.003716
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 6 (6), Reg Centre: 2402 (वालकल्याण आधारभूत विद्यालय, देवीवस्ती), Link: https://www.google.com/maps/search/?api=1&query=26.658503,87.991685
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 7 (7), Reg Centre: 2360 (अरूणोदय नि. मा. वि., पाराखोपी), Link: https://www.google.com/maps/search/?api=1&query=26.691733,87.989475
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 7 (7), Reg Centre: 2388 (७ नं. वडा कार्यालय, अर्जुनधारा), Link: https://www.google.com/maps/search/?api=1&query=26.684201,87.986577
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 8 (8), Reg Centre: 10199 (चन्द्रोदय प्रा वि, हात्तीकिल्ला), Link: https://www.google.com/maps/search/?api=1&query=26.707595,87.996634
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 8 (8), Reg Centre: 2499 (शनिश्चरे मा.वि., शनिश्चरे बजार), Link: https://www.google.com/maps/search/?api=1&query=26.686059,87.993069
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 9 (9), Reg Centre: 2507 (बालज्योति आधारभूत विद्यालय, खरबन्दी), Link: https://www.google.com/maps/search/?api=1&query=26.680986,88.012824
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 9 (9), Reg Centre: 2510 (श्री आधारभूत विद्यालय, बारघरे), Link: https://www.google.com/maps/search/?api=1&query=26.700329,88.012923
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 10 (10), Reg Centre: 11945 (१० नं. वडा कार्यालय, अर्जुनधारा), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 4 (झापा), VDC: 5028 (अर्जुनधारा नगरपालिका), Ward: 11 (11), Reg Centre: 2518 (महारानीगञ्ज मा.वि., सालवाडी), Link: https://www.google.com/maps/search/?api=1&query=26.669567,88.02326
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 1 (1), Reg Centre: 2318 (बुद्ध माध्यामिक विद्यालय, पथरीयाघाट), Link: https://www.google.com/maps/search/?api=1&query=26.417976,87.944583
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 1 (1), Reg Centre: 2322 (वसन्त आधारभूत विद्यालय, झकुवाटोली), Link: https://www.google.com/maps/search/?api=1&query=26.409944,87.976606
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 1 (1), Reg Centre: 2313 (शहिद गंगालाल आधारभूत विद्यालय, हिघाट), Link: https://www.google.com/maps/search/?api=1&query=26.438335,87.931326
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 2 (2), Reg Centre: 2123 (लक्ष्मी प्र. देवकोटा मा.वि., सकुनाडिगी), Link: https://www.google.com/maps/search/?api=1&query=26.407579,88.009968
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 3 (3), Reg Centre: 2110 (पथरिया मा.वि., पथरिया), Link: https://www.google.com/maps/search/?api=1&query=26.417267,87.989107
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 3 (3), Reg Centre: 2114 (मोति मा.वि., डाँगीबारी), Link: https://www.google.com/maps/search/?api=1&query=26.425998,87.966382
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 3 (3), Reg Centre: 2118 (सरस्वती माध्यामिक विद्यालय, दल्की), Link: https://www.google.com/maps/search/?api=1&query=26.445888,87.978621
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 4 (4), Reg Centre: 1998 (महेन्द्र रत्‍न मा.वि., केचना), Link: https://www.google.com/maps/search/?api=1&query=26.387589,87.997399
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 4 (4), Reg Centre: 2001 (वडा कार्यालय, केचना), Link: https://www.google.com/maps/search/?api=1&query=26.386003,87.997697
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 4 (4), Reg Centre: 9957 (शारदा आधारभूत विद्यालय पग्लीभिट्टा), Link: https://www.google.com/maps/search/?api=1&query=26.387025,88.02449
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 5 (5), Reg Centre: 2061 (जानकी माध्यामिक विद्यालय, विश्वासवस्ती), Link: https://www.google.com/maps/search/?api=1&query=26.415402,88.056296
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 5 (5), Reg Centre: 2065 (देवी आधारभूत विद्यालय, आमजुवानी), Link: https://www.google.com/maps/search/?api=1&query=26.408308,88.039005
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 6 (6), Reg Centre: 1993 (गाँउपालिका कार्यालय बनियानी), Link: https://www.google.com/maps/search/?api=1&query=26.431484,88.033086
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 6 (6), Reg Centre: 1984 (बाल आधारभूत विद्यालय, सिंगीमारी), Link: https://www.google.com/maps/search/?api=1&query=26.452781,88.041845
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 6 (6), Reg Centre: 1979 (लक्ष्मी उ,मा.वि., वनियानी), Link: https://www.google.com/maps/search/?api=1&query=26.432197,88.037338
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 6 (6), Reg Centre: 1988 (शिव आधारभूत विद्यालय, डुंगडुंगी), Link: https://www.google.com/maps/search/?api=1&query=26.431208,88.056966
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 7 (7), Reg Centre: 2102 (गगन आधारभूत विद्यालय, सितागुडी), Link: https://www.google.com/maps/search/?api=1&query=26.43096,88.019673
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 7 (7), Reg Centre: 2097 (जनता आधारभूत विद्यालय, ताराबारी), Link: https://www.google.com/maps/search/?api=1&query=26.45353,88.015474
+State: 1 District: 4 (झापा), VDC: 5029 (कचनकवल गाउँपालिका), Ward: 7 (7), Reg Centre: 2093 (वडा कार्यालय, बालुबाडी), Link: https://www.google.com/maps/search/?api=1&query=26.440442,88.003828
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 1 (1), Reg Centre: 10187 (कनकाई न पा कार्यालय, जामुनबाडी), Link: https://www.google.com/maps/search/?api=1&query=26.637218,87.916447
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 1 (1), Reg Centre: 2339 (पशुपति आधारभूत विद्यालय, प्रजापती), Link: https://www.google.com/maps/search/?api=1&query=26.658484,87.936208
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 2 (2), Reg Centre: 2354 (जानकी नि. मा. वि., सुकेडाँगी), Link: https://www.google.com/maps/search/?api=1&query=26.674111,87.890025
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 2 (2), Reg Centre: 2342 (सरस्वती मा.वि., जामुनबाडी), Link: https://www.google.com/maps/search/?api=1&query=26.651508,87.922748
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 3 (3), Reg Centre: 2347 (कन्काई मा.वि., सुरुङ्गा), Link: https://www.google.com/maps/search/?api=1&query=26.63975,87.88996
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 3 (3), Reg Centre: 2356 (जनचेतना सामुदायिक माध्यामिक विद्यालय, गोहीखाडी), Link: https://www.google.com/maps/search/?api=1&query=26.625561,87.887844
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 4 (4), Reg Centre: 2345 (कन्काई वहुमुखी क्याम्पस, लक्ष्मीचोक), Link: https://www.google.com/maps/search/?api=1&query=26.641,87.887759
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 5 (5), Reg Centre: 2350 (देवकोटा आधारभूत विद्यालय, तुलसीबारी), Link: https://www.google.com/maps/search/?api=1&query=26.606436,87.886757
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 6 (6), Reg Centre: 2332 (चम्पापुर मा.वि., चम्पापुर), Link: https://www.google.com/maps/search/?api=1&query=26.61695,87.910435
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 7 (7), Reg Centre: 2328 (भृकुटी मा.वि., दुर्गापुर), Link: https://www.google.com/maps/search/?api=1&query=26.639578,87.925235
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 8 (8), Reg Centre: 9955 (हिमाली माध्यामिक विद्यालय लक्ष्मीपुर), Link: https://www.google.com/maps/search/?api=1&query=26.640177,87.948069
+State: 1 District: 4 (झापा), VDC: 5030 (कन्काई नगरपालिका), Ward: 9 (9), Reg Centre: 2335 (आदर्श विद्यामन्दिर मा.वि., घैलाडुब्वा), Link: https://www.google.com/maps/search/?api=1&query=26.612437,87.934673
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 1 (1), Reg Centre: 3095 (नरेन्द्र जनता मा.वि., सरङपाडा), Link: https://www.google.com/maps/search/?api=1&query=26.550351,87.777411
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 1 (1), Reg Centre: 3063 (बाँसबारी माध्यामिक विद्यालय, बाँसबारी), Link: https://www.google.com/maps/search/?api=1&query=26.576083,87.745242
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 2 (2), Reg Centre: 3090 (कमला म.-आ. मा.वि., क्याम्पाबजार), Link: https://www.google.com/maps/search/?api=1&query=26.608403,87.764635
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 2 (2), Reg Centre: 3071 (महेन्द्र रत्न मा.वि., समयगढ), Link: https://www.google.com/maps/search/?api=1&query=26.600468,87.745441
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 3 (3), Reg Centre: 3083 (शहिद धर्मभक्त मा.वि., केरखा), Link: https://www.google.com/maps/search/?api=1&query=26.649224,87.760139
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 4 (4), Reg Centre: 3077 (सरस्वती माध्यामिक विद्यालय, मयुरभिट्टा), Link: https://www.google.com/maps/search/?api=1&query=26.628063,87.749252
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 5 (5), Reg Centre: 3108 (मंगलमय मा.वि., पाडाजुँगी), Link: https://www.google.com/maps/search/?api=1&query=26.653382,87.715322
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 5 (5), Reg Centre: 11817 (शहिद रत्न आ बि, सिम्ले), Link: https://www.google.com/maps/search/?api=1&query=26.68821,87.71709
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 6 (6), Reg Centre: 3129 (बाणी मा.वि., गोहाबारी), Link: https://www.google.com/maps/search/?api=1&query=26.63829,87.703763
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 7 (7), Reg Centre: 3154 (अरनिको आधारभूत विद्यालय, झरका), Link: https://www.google.com/maps/search/?api=1&query=26.590167,87.662642
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 7 (7), Reg Centre: 3137 (पिङडांडा आधारभूत विद्यालय, पिङडांडा), Link: https://www.google.com/maps/search/?api=1&query=26.621742,87.698628
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 7 (7), Reg Centre: 3151 (सरस्वती मा.वि., रंगपुर), Link: https://www.google.com/maps/search/?api=1&query=26.596382,87.68938
+State: 1 District: 4 (झापा), VDC: 5031 (कमल गाउँपालिका), Ward: 7 (7), Reg Centre: 3147 (सिंहदेवी आधारभूत विद्यालय, विष्णुकट्टा), Link: https://www.google.com/maps/search/?api=1&query=26.61523,87.704712
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 1 (1), Reg Centre: 2828 (जनता मा.वि., गौरादह बजार), Link: https://www.google.com/maps/search/?api=1&query=26.569561,87.715613
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 1 (1), Reg Centre: 2824 (मोती मा.वि., सितापुरी), Link: https://www.google.com/maps/search/?api=1&query=26.592457,87.71126
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 2 (2), Reg Centre: 11931 (गौरादह कृषि क्याम्पस, गौरादह), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 2 (2), Reg Centre: 2839 (सरस्वती आधारभूत विद्यालय, हाँसखोरा), Link: https://www.google.com/maps/search/?api=1&query=26.541008,87.727668
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 3 (3), Reg Centre: 2843 (दुर्गादेवी प्रा.वि., जामबाडी), Link: https://www.google.com/maps/search/?api=1&query=26.526337,87.704259
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 3 (3), Reg Centre: 10189 (सुर्यौदय आधारभूत विद्यालय, धिमधिमे), Link: https://www.google.com/maps/search/?api=1&query=26.536611,87.718338
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 4 (4), Reg Centre: 2925 (कञ्चनजंघा आधारभूत विद्यालय, मैदानघोपा), Link: https://www.google.com/maps/search/?api=1&query=26.577232,87.69537
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 4 (4), Reg Centre: 2953 (जनता आधारभूत विद्यालय, किस्तिचौन), Link: https://www.google.com/maps/search/?api=1&query=26.56175,87.699491
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 4 (4), Reg Centre: 2944 (डोरामारी मा.वि., डोरामारी), Link: https://www.google.com/maps/search/?api=1&query=26.526671,87.681698
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 4 (4), Reg Centre: 2949 (भिमसेन माध्यामिक विद्यालय, मजुवा), Link: https://www.google.com/maps/search/?api=1&query=26.542895,87.692488
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 5 (5), Reg Centre: 2940 (जनज्योति आधारभूत विद्यालय, तिसियाचौन), Link: https://www.google.com/maps/search/?api=1&query=26.55771,87.664891
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 5 (5), Reg Centre: 2958 (जनता मा.वि., बालुबथान), Link: https://www.google.com/maps/search/?api=1&query=26.578512,87.655937
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 5 (5), Reg Centre: 2963 (भद्रकाली मा.वि., चप्रामारी), Link: https://www.google.com/maps/search/?api=1&query=26.537879,87.663829
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 5 (5), Reg Centre: 2933 (स्कुलचौन मा.वि., स्कुलचौन), Link: https://www.google.com/maps/search/?api=1&query=26.566179,87.682526
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 6 (6), Reg Centre: 2971 (जनज्योति मा.वि. दामना), Link: https://www.google.com/maps/search/?api=1&query=26.491611,87.674802
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 6 (6), Reg Centre: 2968 (जनता आधारभूत विद्यालय, कोहोवरा), Link: https://www.google.com/maps/search/?api=1&query=26.511439,87.65699
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 7 (7), Reg Centre: 11423 (गौरिया आधारभुत विद्यालय, गछियामारी), Link: https://www.google.com/maps/search/?api=1&query=26.50877,87.68882
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 7 (7), Reg Centre: 2871 (भारती आधारभूत विद्यालय, दुधाली), Link: https://www.google.com/maps/search/?api=1&query=26.501683,87.700826
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 7 (7), Reg Centre: 2885 (श्री आधारभूत विद्यालय ग्वालडुब्बा), Link: https://www.google.com/maps/search/?api=1&query=26.523913,87.723771
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 8 (8), Reg Centre: 2867 (अरूणोदय आधारभूत विद्यालय, जुरोपानी), Link: https://www.google.com/maps/search/?api=1&query=26.492945,87.715922
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 8 (8), Reg Centre: 11934 (बैराती आ बि, बैराती), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 9 (9), Reg Centre: 2796 (अमर मा.वि., वैगुनधुरा), Link: https://www.google.com/maps/search/?api=1&query=26.519715,87.770462
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 9 (9), Reg Centre: 2804 (बलभद्र आधारभूत विद्यालय, दहगाउँ), Link: https://www.google.com/maps/search/?api=1&query=26.49402,87.776876
+State: 1 District: 4 (झापा), VDC: 5032 (गौरादह नगरपालिका), Ward: 9 (9), Reg Centre: 2800 (सिद्धिदाता आधारभूत विद्यालय, मिसिनधुरा), Link: https://www.google.com/maps/search/?api=1&query=26.51783,87.744848
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 1 (1), Reg Centre: 2811 (कन्काई नहर ८ नं. शाखा, टुनुवस्ती), Link: https://www.google.com/maps/search/?api=1&query=26.515524,87.810107
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 1 (1), Reg Centre: 2805 (जनकल्याण माध्यामिक विद्यालय, माहाभारा), Link: https://www.google.com/maps/search/?api=1&query=26.517258,87.800622
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 1 (1), Reg Centre: 2809 (पृथ्वीनारायण आधारभूत विद्यालय, चौरीबजार), Link: https://www.google.com/maps/search/?api=1&query=26.489171,87.806247
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 1 (1), Reg Centre: 2807 (बालकल्याण मा.वि., कुञ्जीबारी), Link: https://www.google.com/maps/search/?api=1&query=26.489805,87.795698
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 2 (2), Reg Centre: 2814 (आदर्श मा.वि., टटुवामारी), Link: https://www.google.com/maps/search/?api=1&query=26.461059,87.758131
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 2 (2), Reg Centre: 2817 (जनता माध्यामिक विद्यालय, कोरोबारी), Link: https://www.google.com/maps/search/?api=1&query=26.432807,87.758339
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 2 (2), Reg Centre: 2821 (शिशुकल्याण आधारभूत विद्यालय, तुलाचन), Link: https://www.google.com/maps/search/?api=1&query=26.479596,87.771387
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 3 (3), Reg Centre: 2861 (गौरी आधारभूत विद्यालय, ठेकीटोला), Link: https://www.google.com/maps/search/?api=1&query=26.474344,87.739045
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 3 (3), Reg Centre: 2851 (गौरीगञ्ज आधारभूत विद्यालय, गौरीगञ्ज), Link: https://www.google.com/maps/search/?api=1&query=26.465122,87.711987
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 3 (3), Reg Centre: 2856 (गौरीगञ्ज मा.वि., गौरीगञज), Link: https://www.google.com/maps/search/?api=1&query=26.468555,87.711448
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 4 (4), Reg Centre: 2846 (सरस्वती आधारभूत विद्यालय, कदमगाछी), Link: https://www.google.com/maps/search/?api=1&query=26.441518,87.724052
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 5 (5), Reg Centre: 2910 (जनता आधारभूत विद्यालय, चिलहरा), Link: https://www.google.com/maps/search/?api=1&query=26.461111,87.68023
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 5 (5), Reg Centre: 2906 (जनता बालविकास आधारभूत विद्यालय, डांगीटोल), Link: https://www.google.com/maps/search/?api=1&query=26.440591,87.695613
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 6 (6), Reg Centre: 2920 (खजुरगाछी मा.वि., खजुरगाछी), Link: https://www.google.com/maps/search/?api=1&query=26.461388,87.702804
+State: 1 District: 4 (झापा), VDC: 5033 (गौरीगञ्‍ज गाउँपालिका), Ward: 6 (6), Reg Centre: 2915 (राष्ट्रिय आधारभूत विद्यालय, गौरीयाडाँगी), Link: https://www.google.com/maps/search/?api=1&query=26.475757,87.700077
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 1 (1), Reg Centre: 2587 (सरस्वती आधारभूत विद्यालय, रसुनगञ्ज), Link: https://www.google.com/maps/search/?api=1&query=26.443447,87.843279
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 1 (1), Reg Centre: 10188 (सितुमारी प्रा वि, कुमरखोद), Link: https://www.google.com/maps/search/?api=1&query=26.471889,87.842027
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 2 (2), Reg Centre: 2590 (कुवाडीदेवी माध्यामिक विद्यालय, कुवाडी), Link: https://www.google.com/maps/search/?api=1&query=26.502537,87.83587
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 2 (2), Reg Centre: 2584 (त्रिभुवन आधारभूत विद्यालय, झापाबजार), Link: https://www.google.com/maps/search/?api=1&query=26.478478,87.855053
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 2 (2), Reg Centre: 2593 (लक्ष्मी आधारभूत विद्यालय, सडकबारी), Link: https://www.google.com/maps/search/?api=1&query=26.484682,87.835891
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 3 (3), Reg Centre: 2610 (भानुभक्त आधारभूत विद्यालय, रूइमारी), Link: https://www.google.com/maps/search/?api=1&query=26.502423,87.878476
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 3 (3), Reg Centre: 2616 (सिमलबाडी नि. मा. वि., सिमलबाडी), Link: https://www.google.com/maps/search/?api=1&query=26.529368,87.854063
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 3 (3), Reg Centre: 2613 (स्वस्थानी आधारभूत विद्यालय, फुलगाछी), Link: https://www.google.com/maps/search/?api=1&query=26.515686,87.879067
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 4 (4), Reg Centre: 2622 (जगदम्बा आधारभूत विद्यालय, टाँगनडुब्बा), Link: https://www.google.com/maps/search/?api=1&query=26.482661,87.868471
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 4 (4), Reg Centre: 2620 (डिल्लीराज मा.वि., टाँगनडुब्बा), Link: https://www.google.com/maps/search/?api=1&query=26.481188,87.859724
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 5 (5), Reg Centre: 9801 (महेन्द्र नि. मा. बि. पन्थापाडा), Link: https://www.google.com/maps/search/?api=1&query=26.490211,87.898568
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 5 (5), Reg Centre: 9802 (रामजानकि प्रा.बि. शरणामती), Link: https://www.google.com/maps/search/?api=1&query=26.507308,87.904512
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 6 (6), Reg Centre: 2599 (चप्रामारी आधारभूत विद्यालय, भौडी), Link: https://www.google.com/maps/search/?api=1&query=26.566132,87.881158
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 6 (6), Reg Centre: 9800 (जनता मा.वि. शरणामती), Link: https://www.google.com/maps/search/?api=1&query=26.542962,87.890701
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 6 (6), Reg Centre: 9804 (भृकुटी प्रा.बि. ट्याक्टर फर्म), Link: https://www.google.com/maps/search/?api=1&query=26.533078,87.887759
+State: 1 District: 4 (झापा), VDC: 5034 (झापा गाउँपालिका), Ward: 7 (7), Reg Centre: 2605 (जनकल्याण मा.वि., मदरगाछ), Link: https://www.google.com/maps/search/?api=1&query=26.554206,87.864871
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 1 (1), Reg Centre: 3002 (दमक न.पा. भवन), Link: https://www.google.com/maps/search/?api=1&query=26.669536,87.703859
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 2 (2), Reg Centre: 3019 (समाज सुधार प्रतिस्ठान, डाकेनी), Link: https://www.google.com/maps/search/?api=1&query=26.6844005,87.67954413
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 2 (2), Reg Centre: 3010 (सरस्वती मा.वि., बेलडाँगी), Link: https://www.google.com/maps/search/?api=1&query=26.698763,87.691714
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 2 (2), Reg Centre: 3006 (हिमालय मा.वि., हिमालीमार्ग), Link: https://www.google.com/maps/search/?api=1&query=26.677271,87.694813
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 3 (3), Reg Centre: 3023 (चुलाचुली माध्यामिक विद्यालय, दुम्से), Link: https://www.google.com/maps/search/?api=1&query=26.718345,87.675415
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 3 (3), Reg Centre: 3033 (जनज्योती आधारभूत विद्यालय, गोलाटार), Link: https://www.google.com/maps/search/?api=1&query=26.708821,87.662252
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 3 (3), Reg Centre: 3028 (ढुकुरपानी मा.वि., ढुकुरपानी), Link: https://www.google.com/maps/search/?api=1&query=26.693488,87.672102
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 4 (4), Reg Centre: 3037 (कृष्ण माध्यामिक विद्यालय, कृष्णमन्दिर), Link: https://www.google.com/maps/search/?api=1&query=26.663681,87.655249
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 4 (4), Reg Centre: 3057 (जनचेतना आधारभूत विद्यालय, अर्नाखाडी), Link: https://www.google.com/maps/search/?api=1&query=26.650407,87.655293
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 4 (4), Reg Centre: 3042 (वडा समिति कार्यालय, अडियामहल), Link: https://www.google.com/maps/search/?api=1&query=26.666804,87.677273
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 5 (5), Reg Centre: 3045 (दिपिनी माध्यामिक विद्यालय, सिमलडांडा), Link: https://www.google.com/maps/search/?api=1&query=26.665723,87.692949
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 6 (6), Reg Centre: 3048 (सडक विभाग भवन, कोलेनी), Link: https://www.google.com/maps/search/?api=1&query=26.66219,87.699157
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 7 (7), Reg Centre: 3049 (पृथ्वी माध्यामिक विद्यालय, राधाकृष्ण मन्दिर), Link: https://www.google.com/maps/search/?api=1&query=26.666211,87.705084
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 8 (8), Reg Centre: 3050 (जनता माध्यामिक विद्यालय, आइतवारे), Link: https://www.google.com/maps/search/?api=1&query=26.653897,87.69533
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 9 (9), Reg Centre: 3055 (पाणिनी मा.वि., लामाटोली), Link: https://www.google.com/maps/search/?api=1&query=26.644557,87.668382
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 9 (9), Reg Centre: 3053 (सरस्वती मा.वि., इटाभट्टा), Link: https://www.google.com/maps/search/?api=1&query=26.657472,87.689618
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 10 (10), Reg Centre: 3060 (जनता आधारभूत विद्यालय, सानोबाह्रघरे), Link: https://www.google.com/maps/search/?api=1&query=26.62314,87.672279
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 10 (10), Reg Centre: 3058 (पशुपति माध्यामिक विद्यालय, सानोबाह्रघरे), Link: https://www.google.com/maps/search/?api=1&query=26.630211,87.66252
+State: 1 District: 4 (झापा), VDC: 5035 (दमक नगरपालिका), Ward: 10 (10), Reg Centre: 3061 (सिंहदेवी मा.वि., सानोबाह्रघरे), Link: https://www.google.com/maps/search/?api=1&query=26.615623,87.662746
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 1 (1), Reg Centre: 2562 (अमृत माध्यामिक विद्यालय, भागुडुब्बा), Link: https://www.google.com/maps/search/?api=1&query=26.466391,87.931706
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 2 (2), Reg Centre: 2567 (जनता आधारभूत विद्यालय, जनताचोक), Link: https://www.google.com/maps/search/?api=1&query=26.493802,87.932231
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 2 (2), Reg Centre: 2564 (भगवती माध्यामिक विद्यालय, बुट्टाबारी), Link: https://www.google.com/maps/search/?api=1&query=26.487914,87.940418
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 2 (2), Reg Centre: 2568 (संयुत्त वडा कार्यालय राजगढ), Link: https://www.google.com/maps/search/?api=1&query=26.506263,87.933394
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 3 (3), Reg Centre: 2571 (पशुपति मा.वि., राजगढ), Link: https://www.google.com/maps/search/?api=1&query=26.507797,87.932692
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 3 (3), Reg Centre: 2579 (रामनगर आधारभूत विद्यालय, रामनगर), Link: https://www.google.com/maps/search/?api=1&query=26.52285,87.935977
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 4 (4), Reg Centre: 2553 (जनविकास माध्यामिक विद्यालय, चकचकी), Link: https://www.google.com/maps/search/?api=1&query=26.536802,87.917586
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 5 (5), Reg Centre: 2555 (गाँउपालीका कार्यालय, चकचकी), Link: https://www.google.com/maps/search/?api=1&query=26.549497,87.921028
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 5 (5), Reg Centre: 2560 (घोडामारा नि.मा. वि., घोडामारा), Link: https://www.google.com/maps/search/?api=1&query=26.570544,87.938964
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 5 (5), Reg Centre: 2558 (फुलबारी मा.वि., फुलबारी), Link: https://www.google.com/maps/search/?api=1&query=26.562318,87.923923
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 6 (6), Reg Centre: 11949 (डाँगीबारी स्वास्थ्य चौकी, डाँगीबारी), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 6 (6), Reg Centre: 2547 (पञ्चमणी माध्यामिक विद्यालय, बारदशी), Link: https://www.google.com/maps/search/?api=1&query=26.586855,87.944723
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 7 (7), Reg Centre: 2541 (गौरीशंकर मा.वि., डाँगीबारी बजार), Link: https://www.google.com/maps/search/?api=1&query=26.577672,87.913212
+State: 1 District: 4 (झापा), VDC: 5036 (बाह्रदशी गाउँपालिका), Ward: 7 (7), Reg Centre: 11805 (पशुपति आ बि, बत्तीसबिघा), Link: https://www.google.com/maps/search/?api=1&query=26.606702,87.899465
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 1 (1), Reg Centre: 2457 (त्रिभुवन मा.वि., होक्से), Link: https://www.google.com/maps/search/?api=1&query=26.739766,88.029278
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 1 (1), Reg Centre: 2448 (नमुना नि. मा .वि., नमुनाचोक), Link: https://www.google.com/maps/search/?api=1&query=26.747397,88.037263
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 1 (1), Reg Centre: 2467 (बुद्ध आदर्श मा.वि., स्कुलचोक), Link: https://www.google.com/maps/search/?api=1&query=26.722212,88.048693
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 2 (2), Reg Centre: 2451 (आदर्श मा.वि., जयपुर), Link: https://www.google.com/maps/search/?api=1&query=26.718797,88.020528
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 2 (2), Reg Centre: 2462 (सरस्वती आधारभूत विद्यालय, गोपालडांडा), Link: https://www.google.com/maps/search/?api=1&query=26.710017,88.033336
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 3 (3), Reg Centre: 2473 (नवकिरण नि. मा. वि., ७ नं चोक), Link: https://www.google.com/maps/search/?api=1&query=26.700433,88.0488
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 3 (3), Reg Centre: 10185 (बुद्धशान्ति गाउँपालिका कार्यालय, बुधबारे), Link: https://www.google.com/maps/search/?api=1&query=26.719703,88.048776
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 3 (3), Reg Centre: 2480 (शिशुसुधार आधारभूत विद्यालय, स्कुलचोक), Link: https://www.google.com/maps/search/?api=1&query=26.702868,88.05664
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 4 (4), Reg Centre: 10186 (गणेश मा वि, सट्टाभर्ना), Link: https://www.google.com/maps/search/?api=1&query=26.736222,88.076115
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 5 (5), Reg Centre: 1525 (गढीगाउँ मा.वि., गढीगाउँ), Link: https://www.google.com/maps/search/?api=1&query=26.753661,88.086445
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 5 (5), Reg Centre: 1533 (जनज्योति माध्यामिक विद्यालय, आयाबारी), Link: https://www.google.com/maps/search/?api=1&query=26.69776,88.111825
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 6 (6), Reg Centre: 1529 (आदर्श आधारभूत विद्यालय, सन्तपुर), Link: https://www.google.com/maps/search/?api=1&query=26.776788,88.079477
+State: 1 District: 4 (झापा), VDC: 5037 (बुद्धशान्ति गाउँपालिका), Ward: 7 (7), Reg Centre: 1521 (राष्ट्रिय विजय मा.वि., सुनमाई), Link: https://www.google.com/maps/search/?api=1&query=26.780357,88.070093
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 1 (1), Reg Centre: 2070 (दिपक आधारभूत विद्यालय, दियालोवस्ती), Link: https://www.google.com/maps/search/?api=1&query=26.468951,88.053551
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 1 (1), Reg Centre: 2089 (शान्ति आधारभूत विद्यालय, विहिबारे), Link: https://www.google.com/maps/search/?api=1&query=26.462815,88.063227
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 1 (1), Reg Centre: 2068 (श्री आधारभुत विद्यालय दशरथपुर), Link: https://www.google.com/maps/search/?api=1&query=26.460625,88.045567
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 1 (1), Reg Centre: 2091 (हिमाली मा.वि., हिमाली), Link: https://www.google.com/maps/search/?api=1&query=26.449353,88.069247
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 2 (2), Reg Centre: 2077 (सगरमाथा मा.वि., सगरमाथा), Link: https://www.google.com/maps/search/?api=1&query=26.489274,88.070731
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 2 (2), Reg Centre: 2086 (सिता माध्यामिक विद्यालय, सितावस्ती), Link: https://www.google.com/maps/search/?api=1&query=26.467685,88.070971
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 3 (3), Reg Centre: 2017 (अरनिको मा.वि., सुर्यनगर), Link: https://www.google.com/maps/search/?api=1&query=26.477488,88.079189
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 3 (3), Reg Centre: 2020 (आदर्श आधारभूत विद्यालय, भैंसाबाडी), Link: https://www.google.com/maps/search/?api=1&query=26.441202,88.088974
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 3 (3), Reg Centre: 2074 (चन्द्रभानु ज्योति मा.वि., भिमनगर), Link: https://www.google.com/maps/search/?api=1&query=26.502368,88.076893
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 4 (4), Reg Centre: 2005 (पशुति आधारभूत विद्यालय, तारानगर), Link: https://www.google.com/maps/search/?api=1&query=26.5233,88.087117
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 4 (4), Reg Centre: 2007 (महेशपुर माध्यामिक विद्यालय, मन्त्रीवस्ती), Link: https://www.google.com/maps/search/?api=1&query=26.530483,88.070114
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 5 (5), Reg Centre: 2134 (पशुपति आधारभूत विद्यालय, देवीवस्ती), Link: https://www.google.com/maps/search/?api=1&query=26.546873,88.09848
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 5 (5), Reg Centre: 2129 (भद्रपुर मा.वि., नयाँबजार), Link: https://www.google.com/maps/search/?api=1&query=26.54061,88.096752
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 6 (6), Reg Centre: 2170 (जिल्ला पशुसेवा कार्यालय, भानुनगर), Link: https://www.google.com/maps/search/?api=1&query=26.547515,88.082217
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 6 (6), Reg Centre: 2298 (शारदा माध्यामिक विद्यालय, बहलमानपटी), Link: https://www.google.com/maps/search/?api=1&query=26.549176,88.08993
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 7 (7), Reg Centre: 1880 (विरेन्द्र मा.वि., चन्द्रगढी), Link: https://www.google.com/maps/search/?api=1&query=26.567705,88.066615
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 7 (7), Reg Centre: 2027 (सरस्वती विद्यामन्दिर आधारभूत विद्यालय, सरस्वती चोक), Link: https://www.google.com/maps/search/?api=1&query=26.5483,88.068425
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 8 (8), Reg Centre: 2149 (पृथ्वी माध्यामिक विद्यालय, पृथ्वीटोल), Link: https://www.google.com/maps/search/?api=1&query=26.55469,88.088083
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 8 (8), Reg Centre: 2158 (मेची रङ्गशाला, एस.पी. मोड), Link: https://www.google.com/maps/search/?api=1&query=26.567407,88.072288
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 9 (9), Reg Centre: 1866 (जीवनज्याति माध्यामिक विद्यालय, प्रकाशपुर), Link: https://www.google.com/maps/search/?api=1&query=26.59314,88.070698
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 9 (9), Reg Centre: 1873 (पशुपति माध्यामिक विद्यालय, घोडामारा), Link: https://www.google.com/maps/search/?api=1&query=26.574033,88.092848
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 9 (9), Reg Centre: 1883 (पुहातु जनज्योति मा.वि., पुहातुवाढी), Link: https://www.google.com/maps/search/?api=1&query=26.610511,88.077116
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 10 (10), Reg Centre: 1860 (कलवलगुढी आधारभूत विद्यालय कलवलगुढी), Link: https://www.google.com/maps/search/?api=1&query=26.579045,88.047416
+State: 1 District: 4 (झापा), VDC: 5038 (भद्रपुर नगरपालिका), Ward: 10 (10), Reg Centre: 1863 (भगवती आधारभूत विद्यालय, सत्रविघे), Link: https://www.google.com/maps/search/?api=1&query=26.581284,88.060605
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 1 (1), Reg Centre: 9917 (कृष्ण नि.मा. बि. गाढागल्ली), Link: https://www.google.com/maps/search/?api=1&query=26.77240577,88.1568421
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 1 (1), Reg Centre: 1571 (जनकल्याण आधारभूत विद्यालय, देवीगञ्ज), Link: https://www.google.com/maps/search/?api=1&query=26.764221,88.170032
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 1 (1), Reg Centre: 1574 (पवित्र माध्यामिक विद्यालय, तिरिङ्ग), Link: https://www.google.com/maps/search/?api=1&query=26.775107,88.174206
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 2 (2), Reg Centre: 1553 (भानु मा.वि., भृकुटी), Link: https://www.google.com/maps/search/?api=1&query=26.727721,88.145603
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 2 (2), Reg Centre: 1564 (मेची जनसाधारण मा.वि., बहादुरगञ्ज), Link: https://www.google.com/maps/search/?api=1&query=26.753223,88.156202
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 3 (3), Reg Centre: 1558 (जनता मा.वि., तेलपानी), Link: https://www.google.com/maps/search/?api=1&query=26.755322,88.13308
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 3 (3), Reg Centre: 1548 (नवज्योति माध्यामिक विद्यालय, बडाखाल), Link: https://www.google.com/maps/search/?api=1&query=26.706053,88.13251
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 4 (4), Reg Centre: 1544 (सरस्वती मा.‍‍वी.वाहुनडागी), Link: https://www.google.com/maps/search/?api=1&query=26.727047,88.170688
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 5 (5), Reg Centre: 1652 (बाल कल्याण मा.वि., सुरेन्द्रनगर), Link: https://www.google.com/maps/search/?api=1&query=26.685585,88.139537
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 5 (5), Reg Centre: 1653 (मेची माध्यामिक विद्यालय, नकलवन्दा), Link: https://www.google.com/maps/search/?api=1&query=26.67867441,88.16116036
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 6 (6), Reg Centre: 1668 (काकरभिट्टा क्याम्पस, काकरभिट्टा), Link: https://www.google.com/maps/search/?api=1&query=26.645314,88.153933
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 6 (6), Reg Centre: 1663 (काकरभिट्टा मा.वि., काकरभिट्टा), Link: https://www.google.com/maps/search/?api=1&query=26.644994,88.154906
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 6 (6), Reg Centre: 1657 (संयुक्त वडा कार्यालय, काकरभिट्टा), Link: https://www.google.com/maps/search/?api=1&query=26.648031,88.152581
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 7 (7), Reg Centre: 1960 (अरनिको आधारभूत विद्यालय, गोमनसरी), Link: https://www.google.com/maps/search/?api=1&query=26.626299,88.129002
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 7 (7), Reg Centre: 1671 (लक्ष्मी आधारभूत विद्यालय, कालीखोला), Link: https://www.google.com/maps/search/?api=1&query=26.647683,88.145184
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 7 (7), Reg Centre: 1674 (सरस्वती आधारभूत विद्यालय, ईटाभट्टा), Link: https://www.google.com/maps/search/?api=1&query=26.65241,88.127608
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 8 (8), Reg Centre: 1678 (आदर्श मा.वि., ईटाभट्टा), Link: https://www.google.com/maps/search/?api=1&query=26.66239,88.128252
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 8 (8), Reg Centre: 1648 (मेची विद्योदय आधारभूत विद्यालय, आयावारी), Link: https://www.google.com/maps/search/?api=1&query=26.675104,88.123029
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 9 (9), Reg Centre: 1642 (कवि शिरोमणी मा.वि., खुट्टेडांगी), Link: https://www.google.com/maps/search/?api=1&query=26.690988,88.096498
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 9 (9), Reg Centre: 1638 (हरि नि.मा. वि., मागुरमाडी), Link: https://www.google.com/maps/search/?api=1&query=26.705589,88.087379
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 10 (10), Reg Centre: 1633 (धुलावारी मा.वि., धुलावारी), Link: https://www.google.com/maps/search/?api=1&query=26.668145,88.101661
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 10 (10), Reg Centre: 11612 (प्राथमिक स्वास्थ्य सेवा केन्द्र, धुलाबरीमोड), Link: https://www.google.com/maps/search/?api=1&query=26.65898,88.09933
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 10 (10), Reg Centre: 1630 (महानन्द आधारभूत विद्यालय, लालपानी), Link: https://www.google.com/maps/search/?api=1&query=26.648771,88.085299
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 10 (10), Reg Centre: 1625 (शिशु साक्षर नि. मा. वि., खयरडांगी), Link: https://www.google.com/maps/search/?api=1&query=26.651785,88.102772
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 11 (11), Reg Centre: 1598 (बलभद्र जनता मा.वि., धाईजन), Link: https://www.google.com/maps/search/?api=1&query=26.668439,88.067566
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 11 (11), Reg Centre: 1612 (भानु नि. मा. वासवारी), Link: https://www.google.com/maps/search/?api=1&query=26.668493,88.087002
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 12 (12), Reg Centre: 1603 (अमर आधारभूत विद्यालय, चुहानडांगी), Link: https://www.google.com/maps/search/?api=1&query=26.681764,88.059641
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 12 (12), Reg Centre: 1609 (सरस्वती बालकल्याण मा.वि., सहरेडांगी), Link: https://www.google.com/maps/search/?api=1&query=26.676525,88.045615
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 13 (13), Reg Centre: 1893 (शहिद दशरथचन्द मा.वि., चारआली), Link: https://www.google.com/maps/search/?api=1&query=26.652012,88.056992
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 13 (13), Reg Centre: 1887 (शान्ति आधारभूत विद्यालय, बमवाढी ‍‍), Link: https://www.google.com/maps/search/?api=1&query=26.628894,88.068972
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 14 (14), Reg Centre: 1902 (कृष्ण आधारभूत विद्यालय, प्रणामीनगर), Link: https://www.google.com/maps/search/?api=1&query=26.608508,88.087561
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 14 (14), Reg Centre: 1897 (बालसुवोधनी माध्यामिक विद्यालय, दुवागढी), Link: https://www.google.com/maps/search/?api=1&query=26.635742,88.077444
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 15 (15), Reg Centre: 1954 (कालिका आधारभूत विद्यालय, कालिकाझार), Link: https://www.google.com/maps/search/?api=1&query=26.591451,88.112938
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 15 (15), Reg Centre: 1955 (ज्ञानदिप आधारभूत विद्यालय, विचारनी), Link: https://www.google.com/maps/search/?api=1&query=26.612168,88.104563
+State: 1 District: 4 (झापा), VDC: 5039 (मेचीनगर नगरपालिका), Ward: 15 (15), Reg Centre: 1957 (ज्यामिरगढी मा.वि., लालझोडा), Link: https://www.google.com/maps/search/?api=1&query=26.624275,88.10566
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 1 (1), Reg Centre: 1844 (नेपाल खाद्य संस्थान भवन), Link: https://www.google.com/maps/search/?api=1&query=26.64097,87.979934
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 2 (2), Reg Centre: 1855 (पञ्चरत्न मा.वि., चैतुवारी), Link: https://www.google.com/maps/search/?api=1&query=26.605493,87.950376
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 2 (2), Reg Centre: 1848 (मोहनमाया मा.वि., रामचोक), Link: https://www.google.com/maps/search/?api=1&query=26.640147,87.970359
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 2 (2), Reg Centre: 1852 (वीर अमरसिंह मा.वि., बेलडांगी), Link: https://www.google.com/maps/search/?api=1&query=26.626481,87.95911
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 3 (3), Reg Centre: 1718 (ईलाका स्वास्थ्य चौकी, विर्ताबजार), Link: https://www.google.com/maps/search/?api=1&query=26.622797,87.986581
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 3 (3), Reg Centre: 1721 (बिर्तामोड न.पा. कार्यालय, बिर्तामोड), Link: https://www.google.com/maps/search/?api=1&query=26.625389,87.988908
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 3 (3), Reg Centre: 1726 (महेन्द्र रत्न मा.वि., विर्ताबजार), Link: https://www.google.com/maps/search/?api=1&query=26.624623,87.988275
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 4 (4), Reg Centre: 1712 (नेपाल विद्युत प्राधिकरण नयाँ भवन, बिर्तामोड), Link: https://www.google.com/maps/search/?api=1&query=26.637015,87.989493
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 4 (4), Reg Centre: 11940 (पशुपंछी तथा मत्स्य विकास केन्द्र, बिर्ताबजार), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 5 (5), Reg Centre: 1704 (देवी मा.वि., विर्तामोड), Link: https://www.google.com/maps/search/?api=1&query=26.647226,87.995785
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 6 (6), Reg Centre: 1691 (सरस्वती मा.वि., बुटावारी), Link: https://www.google.com/maps/search/?api=1&query=26.648565,88.025746
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 7 (7), Reg Centre: 1817 (जनता आधारभूत विद्यालय, खालवाढी), Link: https://www.google.com/maps/search/?api=1&query=26.613757,88.032211
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 7 (7), Reg Centre: 10195 (लक्ष्मी आधारभूत विद्यालय, विरान), Link: https://www.google.com/maps/search/?api=1&query=26.6246,88.026564
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 8 (8), Reg Centre: 1819 (शुक्रराज माध्यामिक विद्यालय, देउनिया), Link: https://www.google.com/maps/search/?api=1&query=26.589466,88.043257
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 8 (8), Reg Centre: 10196 (संयुत्त वडा कार्यालय, गरामुनी), Link: https://www.google.com/maps/search/?api=1&query=26.60930705,88.0090203
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 9 (9), Reg Centre: 1824 (देवकोटा नि. मा. वि., खामतेलवारी), Link: https://www.google.com/maps/search/?api=1&query=26.588953,88.017273
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 9 (9), Reg Centre: 1827 (शहिद लक्ष्मी आधारभूत विद्यालय, टाँगाबारी), Link: https://www.google.com/maps/search/?api=1&query=26.59404,87.997136
+State: 1 District: 4 (झापा), VDC: 5040 (विर्तामोड नगरपालिका), Ward: 10 (10), Reg Centre: 1835 (महेन्द्रज्योति मा.वि., सैनिकबजार), Link: https://www.google.com/maps/search/?api=1&query=26.585628,87.984749
+State: 1 District: 4 (झापा), VDC: 5041 (शिवसताक्षी नगरपालिका), Ward: 1 (1), Reg Centre: 2989 (लक्ष्मीनारायण मा.वि., धरमपुर), Link: https://www.google.com/maps/search/?api=1&query=26.635004,87.778722
+State: 1 District: 4 (झापा), VDC: 5041 (शिवसताक्षी नगरपालिका), Ward: 2 (2), Reg Centre: 2985 (मोती मा.वि., लालपानी), Link: https://www.google.com/maps/search/?api=1&query=26.600558,87.784551
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 1 (1), Reg Centre: 2652 (श्री महादेव आ.वि. बालमन्दिर, मान्मबजार), Link: https://www.google.com/maps/search/?api=1&query=29.151582,81.607619
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 2 (2), Reg Centre: 2643 (श्री पञ्चदेव मा.वि., मान्म), Link: https://www.google.com/maps/search/?api=1&query=29.14494,81.599303
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 2 (2), Reg Centre: 10230 (श्री भवानी आ.वि.मेग्र), Link: https://www.google.com/maps/search/?api=1&query=29.13978,81.60373
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 2 (2), Reg Centre: 2755 (श्री सालडाडाँ आ.वि.पोरीपाली), Link: https://www.google.com/maps/search/?api=1&query=29.129768,81.586333
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 3 (3), Reg Centre: 2648 (श्री जनजीवन मा.बि. ताडि), Link: https://www.google.com/maps/search/?api=1&query=29.134134,81.614863
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 4 (4), Reg Centre: 10238 (श्री सालडाडा आधारभुत विध्यालय), Link: https://www.google.com/maps/search/?api=1&query=29.12698,81.61678
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 5 (5), Reg Centre: 2656 (श्री चुली मालिका मा.बि. घोडेना), Link: https://www.google.com/maps/search/?api=1&query=,
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 6 (6), Reg Centre: 10240 (श्री दुर्गा भवानि आधारभुत विध्यालय दाहा), Link: https://www.google.com/maps/search/?api=1&query=29.11782,81.69368
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 7 (7), Reg Centre: 2661 (श्री कालिका मा.बि., सिमकोट, पिली), Link: https://www.google.com/maps/search/?api=1&query=29.108863,81.716776
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 8 (8), Reg Centre: 2667 (श्री जनप्रभात मा.वि. सेरावाडा), Link: https://www.google.com/maps/search/?api=1&query=29.116852,81.746217
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 8 (8), Reg Centre: 11169 (श्री लिंगासैनी मा.वि.दशाला), Link: https://www.google.com/maps/search/?api=1&query=29.11869,81.73827
+State: 6 District: 60 (कालिकोट), VDC: 5599 (खाँडाचक्र नगरपालिका), Ward: 9 (9), Reg Centre: 2668 (श्री ९ नं. वडा कार्यालय पाखा), Link: https://www.google.com/maps/search/?api=1&query=,
