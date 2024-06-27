@@ -2,7 +2,6 @@
 
 ## Overview
 
-This project contains scripts and resources for [describe the purpose of the project]. 
 
 ## Files
 
